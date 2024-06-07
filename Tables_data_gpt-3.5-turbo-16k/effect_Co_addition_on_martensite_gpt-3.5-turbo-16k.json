@@ -1,0 +1,552 @@
+[
+    {
+        "tables": [
+            {
+                "table_number": 1,
+                "title": "Nominal Alloy Compositions",
+                "headers": [
+                    "Alloy",
+                    "Mn",
+                    "Si",
+                    "Co",
+                    "Fe"
+                ],
+                "rows": [
+                    [
+                        "0Co",
+                        "30",
+                        "6",
+                        "0",
+                        "64"
+                    ],
+                    [
+                        "1Co",
+                        "30",
+                        "6",
+                        "1",
+                        "63"
+                    ],
+                    [
+                        "3Co",
+                        "30",
+                        "6",
+                        "3",
+                        "61"
+                    ],
+                    [
+                        "5Co",
+                        "30",
+                        "6",
+                        "5",
+                        "59"
+                    ],
+                    [
+                        "7Co",
+                        "30",
+                        "6",
+                        "7",
+                        "57"
+                    ],
+                    [
+                        "9Co",
+                        "30",
+                        "6",
+                        "9",
+                        "55"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "headers": [
+                    "Alloy",
+                    "Nominal Compositions (mass pct)",
+                    "Hot Rollability",
+                    "Mn",
+                    "Si",
+                    "Co",
+                    "Fe"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "0Co",
+                        "Nominal Compositions (mass pct)": "30 6 0 64",
+                        "Hot Rollability": "successful",
+                        "Mn": "30",
+                        "Si": "6",
+                        "Co": "0",
+                        "Fe": "64"
+                    },
+                    {
+                        "Alloy": "1Co",
+                        "Nominal Compositions (mass pct)": "30 6 1 63",
+                        "Hot Rollability": "successful",
+                        "Mn": "30",
+                        "Si": "6",
+                        "Co": "1",
+                        "Fe": "63"
+                    },
+                    {
+                        "Alloy": "3Co",
+                        "Nominal Compositions (mass pct)": "30 6 3 61",
+                        "Hot Rollability": "successful",
+                        "Mn": "30",
+                        "Si": "6",
+                        "Co": "3",
+                        "Fe": "61"
+                    },
+                    {
+                        "Alloy": "5Co",
+                        "Nominal Compositions (mass pct)": "30 6 5 59",
+                        "Hot Rollability": "successful",
+                        "Mn": "30",
+                        "Si": "6",
+                        "Co": "5",
+                        "Fe": "59"
+                    },
+                    {
+                        "Alloy": "7Co",
+                        "Nominal Compositions (mass pct)": "30 6 7 57",
+                        "Hot Rollability": "successful",
+                        "Mn": "30",
+                        "Si": "6",
+                        "Co": "7",
+                        "Fe": "57"
+                    },
+                    {
+                        "Alloy": "9Co",
+                        "Nominal Compositions (mass pct)": "30 6 9 55",
+                        "Hot Rollability": "successful",
+                        "Mn": "30",
+                        "Si": "6",
+                        "Co": "9",
+                        "Fe": "55"
+                    }
+                ]
+            },
+            {
+                "headers": [
+                    "Alloy",
+                    "Phase",
+                    "Lattice Parameters (nm)",
+                    "Volume Fraction (pct)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "0Co",
+                        "Phase": "c",
+                        "Lattice Parameters (nm)": "a= 0.360247",
+                        "Volume Fraction (pct)": "77.73"
+                    },
+                    {
+                        "Alloy": "0Co",
+                        "Phase": "e",
+                        "Lattice Parameters (nm)": "a= 0.255609, c= 0.410333",
+                        "Volume Fraction (pct)": "22.27"
+                    },
+                    {
+                        "Alloy": "1Co",
+                        "Phase": "c",
+                        "Lattice Parameters (nm)": "a= 0.360142",
+                        "Volume Fraction (pct)": "66.41"
+                    },
+                    {
+                        "Alloy": "1Co",
+                        "Phase": "e",
+                        "Lattice Parameters (nm)": "a= 0.255607, c= 0.410089",
+                        "Volume Fraction (pct)": "31.06"
+                    },
+                    {
+                        "Alloy": "1Co",
+                        "Phase": "a",
+                        "Lattice Parameters (nm)": "a= 0.285553",
+                        "Volume Fraction (pct)": "2.53"
+                    },
+                    {
+                        "Alloy": "3Co",
+                        "Phase": "c",
+                        "Lattice Parameters (nm)": "a= 0.360319",
+                        "Volume Fraction (pct)": "75.06"
+                    },
+                    {
+                        "Alloy": "3Co",
+                        "Phase": "e",
+                        "Lattice Parameters (nm)": "a= 0.255919, c= 0.408753",
+                        "Volume Fraction (pct)": "22.32"
+                    },
+                    {
+                        "Alloy": "3Co",
+                        "Phase": "a",
+                        "Lattice Parameters (nm)": "a= 0.285594",
+                        "Volume Fraction (pct)": "2.62"
+                    },
+                    {
+                        "Alloy": "5Co",
+                        "Phase": "c",
+                        "Lattice Parameters (nm)": "a= 0.359984",
+                        "Volume Fraction (pct)": "70.60"
+                    },
+                    {
+                        "Alloy": "5Co",
+                        "Phase": "e",
+                        "Lattice Parameters (nm)": "a= 0.255672, c= 0.409328",
+                        "Volume Fraction (pct)": "26.60"
+                    },
+                    {
+                        "Alloy": "5Co",
+                        "Phase": "a",
+                        "Lattice Parameters (nm)": "a= 0.285409",
+                        "Volume Fraction (pct)": "2.80"
+                    },
+                    {
+                        "Alloy": "7Co",
+                        "Phase": "c",
+                        "Lattice Parameters (nm)": "a= 0.359983",
+                        "Volume Fraction (pct)": "73.91"
+                    },
+                    {
+                        "Alloy": "7Co",
+                        "Phase": "e",
+                        "Lattice Parameters (nm)": "a= 0.254657, c= 0.411653",
+                        "Volume Fraction (pct)": "25.44"
+                    },
+                    {
+                        "Alloy": "7Co",
+                        "Phase": "a",
+                        "Lattice Parameters (nm)": "a= 0.285398",
+                        "Volume Fraction (pct)": "0.65"
+                    },
+                    {
+                        "Alloy": "9Co",
+                        "Phase": "c",
+                        "Lattice Parameters (nm)": "a= 0.359889",
+                        "Volume Fraction (pct)": "69.61"
+                    },
+                    {
+                        "Alloy": "9Co",
+                        "Phase": "e",
+                        "Lattice Parameters (nm)": "a= 0.254619, c= 0.411574",
+                        "Volume Fraction (pct)": "30.04"
+                    },
+                    {
+                        "Alloy": "9Co",
+                        "Phase": "a",
+                        "Lattice Parameters (nm)": "a= 0.285612",
+                        "Volume Fraction (pct)": "0.35"
+                    }
+                ]
+            },
+            {
+                "headers": [
+                    "Alloy",
+                    "Phase",
+                    "Composition (mass pct)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "0Co",
+                        "Phase": "c",
+                        "Composition (mass pct)": "0 31.874 5.612 62.514"
+                    },
+                    {
+                        "Alloy": "1Co",
+                        "Phase": "c",
+                        "Composition (mass pct)": "0.824 29.669 6.289 63.218"
+                    },
+                    {
+                        "Alloy": "3Co",
+                        "Phase": "c",
+                        "Composition (mass pct)": "2.859 30.807 6.366 59.968"
+                    },
+                    {
+                        "Alloy": "5Co",
+                        "Phase": "c",
+                        "Composition (mass pct)": "4.950 31.439 6.026 57.585"
+                    },
+                    {
+                        "Alloy": "7Co",
+                        "Phase": "c",
+                        "Composition (mass pct)": "6.997 30.389 5.780 56.834"
+                    },
+                    {
+                        "Alloy": "9Co",
+                        "Phase": "c",
+                        "Composition (mass pct)": "8.788 30.145 6.235 54.832"
+                    },
+                    {
+                        "Alloy": "0Co",
+                        "Phase": "(Fe,Co) 5Mn 3Si2",
+                        "Composition (mass pct)": "11.803 34.283 10.916 42.998"
+                    },
+                    {
+                        "Alloy": "1Co",
+                        "Phase": "(Fe,Co) 5Mn 3Si2",
+                        "Composition (mass pct)": "13.43 33.48 10.34 42.75"
+                    }
+                ]
+            },
+            {
+                "headers": [
+                    "Alloy",
+                    "MS(/C176C)",
+                    "Mf(/C176C)",
+                    "AS(/C176C)",
+                    "Af(/C176C)",
+                    "DH(e-c) (J/gm)",
+                    "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "0Co",
+                        "MS(/C176C)": "59.58",
+                        "Mf(/C176C)": "13.79",
+                        "AS(/C176C)": "134.39",
+                        "Af(/C176C)": "177.71",
+                        "DH(e-c) (J/gm)": "1.13",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "74.81"
+                    },
+                    {
+                        "Alloy": "1Co",
+                        "MS(/C176C)": "40.45",
+                        "Mf(/C176C)": "/C08.42",
+                        "AS(/C176C)": "131.48",
+                        "Af(/C176C)": "174.32",
+                        "DH(e-c) (J/gm)": "2.01",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "91.03"
+                    },
+                    {
+                        "Alloy": "3Co",
+                        "MS(/C176C)": "24.05",
+                        "Mf(/C176C)": "/C06.62",
+                        "AS(/C176C)": "133.57",
+                        "Af(/C176C)": "164.17",
+                        "DH(e-c) (J/gm)": "1.01",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "109.52"
+                    },
+                    {
+                        "Alloy": "5Co",
+                        "MS(/C176C)": "14.73",
+                        "Mf(/C176C)": "/C022.07",
+                        "AS(/C176C)": "130.76",
+                        "Af(/C176C)": "161.21",
+                        "DH(e-c) (J/gm)": "1.46",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "116.03"
+                    },
+                    {
+                        "Alloy": "7Co",
+                        "MS(/C176C)": "33.91",
+                        "Mf(/C176C)": "/C04.78",
+                        "AS(/C176C)": "134.04",
+                        "Af(/C176C)": "184.24",
+                        "DH(e-c) (J/gm)": "1.22",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "100.13"
+                    },
+                    {
+                        "Alloy": "9Co",
+                        "MS(/C176C)": "32.25",
+                        "Mf(/C176C)": "/C08.44",
+                        "AS(/C176C)": "135.56",
+                        "Af(/C176C)": "175.63",
+                        "DH(e-c) (J/gm)": "1.03",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "103.31"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "table_number": 1,
+                "table_title": "Table III. Chemical Compositions of Constituent Phases",
+                "table_content": [
+                    {
+                        "Alloys": "0Co",
+                        "Measurement Technique": "WDS",
+                        "Phases": "c",
+                        "Composition (mass pct)": "0 31.874 5.612 62.514"
+                    },
+                    {
+                        "Alloys": "1Co",
+                        "Measurement Technique": "WDS",
+                        "Phases": "c",
+                        "Composition (mass pct)": "0.824 29.669 6.289 63.218"
+                    },
+                    {
+                        "Alloys": "3Co",
+                        "Measurement Technique": "WDS",
+                        "Phases": "c",
+                        "Composition (mass pct)": "2.859 30.807 6.366 59.968"
+                    },
+                    {
+                        "Alloys": "5Co",
+                        "Measurement Technique": "WDS",
+                        "Phases": "c",
+                        "Composition (mass pct)": "4.950 31.439 6.026 57.585"
+                    },
+                    {
+                        "Alloys": "7Co",
+                        "Measurement Technique": "WDS",
+                        "Phases": "c",
+                        "Composition (mass pct)": "6.997 30.389 5.780 56.834"
+                    },
+                    {
+                        "Alloys": "9Co",
+                        "Measurement Technique": "WDS",
+                        "Phases": "c",
+                        "Composition (mass pct)": "8.788 30.145 6.235 54.832"
+                    },
+                    {
+                        "Alloys": "WDS (Fe,Co) 5Mn 3Si2",
+                        "Measurement Technique": "WDS",
+                        "Phases": "c",
+                        "Composition (mass pct)": "11.803 34.283 10.916 42.998"
+                    },
+                    {
+                        "Alloys": "at. pct",
+                        "Measurement Technique": "",
+                        "Phases": "",
+                        "Composition (mass pct)": "10.10 31.47 19.60 38.83"
+                    },
+                    {
+                        "Alloys": "EDS c",
+                        "Measurement Technique": "EDS",
+                        "Phases": "",
+                        "Composition (mass pct)": "10.63 28.95 6.50 53.92"
+                    },
+                    {
+                        "Alloys": "EDS (Fe,Co) 5Mn 3Si2",
+                        "Measurement Technique": "EDS",
+                        "Phases": "",
+                        "Composition (mass pct)": "13.43 33.48 10.34 42.75"
+                    },
+                    {
+                        "Alloys": "at. pct",
+                        "Measurement Technique": "",
+                        "Phases": "",
+                        "Composition (mass pct)": "11.56 30.92 18.67 38.85"
+                    }
+                ]
+            },
+            {
+                "table_number": 2,
+                "table_title": "Table IV. Martensitic Transformation Temperatures",
+                "table_content": [
+                    {
+                        "Alloys": "0Co",
+                        "MS(/C176C)": "59.58",
+                        "Mf(/C176C)": "13.79",
+                        "AS(/C176C)": "134.39",
+                        "Af(/C176C)": "177.71",
+                        "DH(e-c) (J/gm)": "1.13",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "74.81",
+                        "Assuming T0= (59.58 + 134.39)/2=96.99 and remains una\ufb00ected with Co addition.": ""
+                    },
+                    {
+                        "Alloys": "1Co",
+                        "MS(/C176C)": "40.45 /C08.42",
+                        "Mf(/C176C)": "131.48",
+                        "AS(/C176C)": "174.32",
+                        "Af(/C176C)": "2.01",
+                        "DH(e-c) (J/gm)": "91.03",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "56.54",
+                        "Assuming T0= (59.58 + 134.39)/2=96.99 and remains una\ufb00ected with Co addition.": "34.49"
+                    },
+                    {
+                        "Alloys": "3Co",
+                        "MS(/C176C)": "24.05 /C06.62",
+                        "Mf(/C176C)": "133.57",
+                        "AS(/C176C)": "164.17",
+                        "Af(/C176C)": "1.01",
+                        "DH(e-c) (J/gm)": "109.52",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "72.94",
+                        "Assuming T0= (59.58 + 134.39)/2=96.99 and remains una\ufb00ected with Co addition.": "36.58"
+                    },
+                    {
+                        "Alloys": "5Co",
+                        "MS(/C176C)": "14.73 /C022.07",
+                        "Mf(/C176C)": "130.76",
+                        "AS(/C176C)": "161.21",
+                        "Af(/C176C)": "1.46",
+                        "DH(e-c) (J/gm)": "116.03",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "82.26",
+                        "Assuming T0= (59.58 + 134.39)/2=96.99 and remains una\ufb00ected with Co addition.": "33.77"
+                    },
+                    {
+                        "Alloys": "7Co",
+                        "MS(/C176C)": "33.91 /C04.78",
+                        "Mf(/C176C)": "134.04",
+                        "AS(/C176C)": "184.24",
+                        "Af(/C176C)": "1.22",
+                        "DH(e-c) (J/gm)": "100.13",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "63.08",
+                        "Assuming T0= (59.58 + 134.39)/2=96.99 and remains una\ufb00ected with Co addition.": "37.05"
+                    },
+                    {
+                        "Alloys": "9Co",
+                        "MS(/C176C)": "32.25 /C08.44",
+                        "Mf(/C176C)": "135.56",
+                        "AS(/C176C)": "175.63",
+                        "Af(/C176C)": "1.03",
+                        "DH(e-c) (J/gm)": "103.31",
+                        "DT=(AS/C0MS)( T0/C0MS)* ( AS/C0T0)*": "64.74",
+                        "Assuming T0= (59.58 + 134.39)/2=96.99 and remains una\ufb00ected with Co addition.": "38.57"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "headers": [
+                    "Alloy",
+                    "Volume Fraction of Phases (pct)",
+                    "ce",
+                    "a"
+                ],
+                "rows": [
+                    [
+                        "0Co",
+                        "51.26",
+                        "47.19",
+                        "1.55"
+                    ],
+                    [
+                        "1Co",
+                        "35.00",
+                        "62.38",
+                        "2.62"
+                    ],
+                    [
+                        "3Co",
+                        "52.92",
+                        "44.94",
+                        "2.14"
+                    ],
+                    [
+                        "5Co",
+                        "48.13",
+                        "48.37",
+                        "3.50"
+                    ],
+                    [
+                        "7Co",
+                        "37.39",
+                        "62.61",
+                        "-"
+                    ],
+                    [
+                        "9Co",
+                        "27.80",
+                        "72.20",
+                        "-"
+                    ]
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "tables": [
+            {
+                "title": "Chemical compositions and Ms, As, and Af temperatures in the first thermal cycle of the alloys",
+                "headers": [
+                    "Alloy",
+                    "C",
+                    "Si",
+                    "Mn",
+                    "P",
+                    "S",
+                    "Fe",
+                    "Ms",
+                    "As",
+                    "Af"
+                ],
+                "rows": [
+                    [
+                        "Fe-17%/Mn",
+                        "0.001",
+                        "0.002",
+                        "0.005",
+                        "0.021",
+                        "6.6",
+                        "24.4",
+                        "33",
+                        "453",
+                        "366"
+                    ],
+                    [
+                        "Fe-25%/Mn",
+                        "0.001",
+                        "0.005",
+                        "0.004",
+                        "0.005",
+                        "bal.",
+                        "bal.",
+                        "433",
+                        "486",
+                        "436"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "table_number": 1,
+                "table_caption": "Table 1.Chemical compositions (masso/o)andMs,AsandAftemperatures (K)inthefirstthermal cycleofthealloys.",
+                "table_content": [
+                    [
+                        "Alloy",
+                        "C",
+                        "Si",
+                        "Mn",
+                        "P",
+                        "S",
+                        "Fe",
+                        "Ms",
+                        "As",
+                        "Af"
+                    ],
+                    [
+                        "Fe-17o/oMn",
+                        "",
+                        "",
+                        "0.001",
+                        "0.002",
+                        "0.005",
+                        "0.021",
+                        "6.6",
+                        "24",
+                        "40"
+                    ],
+                    [
+                        "Fe-25o/oMn",
+                        "0.001",
+                        "0.005",
+                        "0.0014",
+                        "0.005",
+                        "0.004",
+                        "bal.",
+                        "433",
+                        "453",
+                        "366"
+                    ],
+                    [
+                        "Fe-250/0Mn",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "bal.",
+                        "440",
+                        "420",
+                        "360"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "table_number": 1,
+                "content": "Fig.5.Transmission electron micrograplls oftheFe-250/0Mn alloy."
+            },
+            {
+                "table_number": 2,
+                "content": "Fig.6.Change inhardness ofaustenite at573Kbythe thermal cyclingbetween273and573K."
+            },
+            {
+                "table_number": 3,
+                "content": "Fig.7.Isothermal formation ofemartensite at313,333 and353Kafter9thermal cyclesbetween305and573KintheFe-250/.Mn alloy."
+            },
+            {
+                "table_number": 4,
+                "content": "Fig.8.Difference infreeenergybetween austeniteande martensite (AGr-') asafunction oftemperature."
+            },
+            {
+                "table_number": 5,
+                "content": "Fig.9.Effectoftheamountofemartensite beforetheheatingonAsandAftemperatures intheFe-250/0Mn alloy."
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "title": "Effect of the amount of emartensite before the heating on As and Af temperatures in the Fe-250/0Mn alloy",
+                "data": [
+                    [
+                        "Amount of emartensite before Heating/%",
+                        "As temperature",
+                        "Af temperature"
+                    ],
+                    [
+                        "0",
+                        "440",
+                        "400"
+                    ],
+                    [
+                        "10",
+                        "420",
+                        "380"
+                    ],
+                    [
+                        "20",
+                        "400",
+                        "360"
+                    ],
+                    [
+                        "30",
+                        "380",
+                        "340"
+                    ],
+                    [
+                        "35",
+                        "360",
+                        "320"
+                    ]
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,204 @@
+[
+    {
+        "tables": [
+            {
+                "table_number": 1,
+                "content": [
+                    {
+                        "Mn": "25.5",
+                        "Si": "5.7",
+                        "Cr": "7.9",
+                        "Ni": "5.0",
+                        "Ms": "-",
+                        "As": "-",
+                        "Initial recoverable strain": "0.97%",
+                        "Recoverable strain after treatment": "1.15%"
+                    },
+                    {
+                        "Mn": "20.4",
+                        "Si": "5.0",
+                        "Cr": "8.0",
+                        "Ni": "5.0",
+                        "Ms": "261.2K",
+                        "As": "354.5K",
+                        "Initial recoverable strain": "2.054%",
+                        "Recoverable strain after treatment": "2.20%"
+                    },
+                    {
+                        "Mn": "19.9",
+                        "Si": "5.0",
+                        "Cr": "10.1",
+                        "Ni": "5.0",
+                        "Ms": "225.7K",
+                        "As": "355.1K",
+                        "Initial recoverable strain": "1.95%",
+                        "Recoverable strain after treatment": "2.10%"
+                    },
+                    {
+                        "Mn": "17.5",
+                        "Si": "5.1",
+                        "Cr": "8.5",
+                        "Ni": "5.5",
+                        "Ms": "254.3K",
+                        "As": "370.0K",
+                        "Initial recoverable strain": "1.11%",
+                        "Recoverable strain after treatment": "1.98%"
+                    },
+                    {
+                        "Mn": "16.9",
+                        "Si": "5.0",
+                        "Cr": "10.0",
+                        "Ni": "6.3",
+                        "Ms": "254.0K",
+                        "As": "365.8K",
+                        "Initial recoverable strain": "1.20%",
+                        "Recoverable strain after treatment": "1.76%"
+                    },
+                    {
+                        "Mn": "18.3",
+                        "Si": "5.1",
+                        "Cr": "11.7",
+                        "Ni": "5.5",
+                        "Ms": "-",
+                        "As": "0.95%",
+                        "Initial recoverable strain": "-"
+                    },
+                    {
+                        "Mn": "17.9",
+                        "Si": "5.0",
+                        "Cr": "13.9",
+                        "Ni": "4.9",
+                        "Ms": "-",
+                        "As": "328.7K",
+                        "Initial recoverable strain": "broken"
+                    },
+                    {
+                        "Mn": "16.5",
+                        "Si": "5.1",
+                        "Cr": "8.4",
+                        "Ni": "5.0",
+                        "Ms": "214.5K",
+                        "As": "342.4K",
+                        "Initial recoverable strain": "0.98%",
+                        "Recoverable strain after treatment": "1.34%"
+                    },
+                    {
+                        "Mn": "16.4",
+                        "Si": "5.1",
+                        "Cr": "10.3",
+                        "Ni": "5.0",
+                        "Ms": "-",
+                        "As": "369.2K",
+                        "Initial recoverable strain": "1.10%",
+                        "Recoverable strain after treatment": "1.76%"
+                    },
+                    {
+                        "Mn": "16.0",
+                        "Si": "5.0",
+                        "Cr": "11.6",
+                        "Ni": "4.9",
+                        "Ms": "267.2K",
+                        "As": "382.3K",
+                        "Initial recoverable strain": "1.45%",
+                        "Recoverable strain after treatment": "2.07%"
+                    },
+                    {
+                        "Mn": "13.7",
+                        "Si": "5.0",
+                        "Cr": "8.0",
+                        "Ni": "4.4",
+                        "Ms": "274.5K",
+                        "As": "406.8K",
+                        "Initial recoverable strain": "0.91%",
+                        "Recoverable strain after treatment": "1.12%"
+                    },
+                    {
+                        "Mn": "13.3",
+                        "Si": "4.9",
+                        "Cr": "9.6",
+                        "Ni": "5.8",
+                        "Ms": "276.8K",
+                        "As": "385.1K",
+                        "Initial recoverable strain": "1.59%",
+                        "Recoverable strain after treatment": "2.02%"
+                    },
+                    {
+                        "Mn": "13.0",
+                        "Si": "4.7",
+                        "Cr": "11.4",
+                        "Ni": "6.8",
+                        "Ms": "243.6K",
+                        "As": "367.5K",
+                        "Initial recoverable strain": "1.64%",
+                        "Recoverable strain after treatment": "1.96%"
+                    },
+                    {
+                        "Mn": "31.5",
+                        "Si": "6.0",
+                        "Cr": "-",
+                        "Ni": "-",
+                        "Ms": "293.0K",
+                        "As": "388.2K",
+                        "Initial recoverable strain": "1.00%",
+                        "Recoverable strain after treatment": "1.85%"
+                    },
+                    {
+                        "Mn": "27.6",
+                        "Si": "6.1",
+                        "Cr": "5.0",
+                        "Ni": "-",
+                        "Ms": "283.0K",
+                        "As": "392.2K",
+                        "Initial recoverable strain": "1.20%",
+                        "Recoverable strain after treatment": "1.80%"
+                    }
+                ]
+            },
+            {
+                "table_number": 2,
+                "content": [
+                    {
+                        "Mn": "20.4",
+                        "Si": "5.0",
+                        "Cr": "8.0",
+                        "Ni": "5.0",
+                        "Room temperature volume fraction of martensite phase": "0%",
+                        "77K volume fraction of martensite phase": "34.0%"
+                    },
+                    {
+                        "Mn": "16.0",
+                        "Si": "5.0",
+                        "Cr": "11.6",
+                        "Ni": "4.9",
+                        "Room temperature volume fraction of martensite phase": "0%",
+                        "77K volume fraction of martensite phase": "29.8%"
+                    },
+                    {
+                        "Mn": "31.5",
+                        "Si": "6.0",
+                        "Cr": "-",
+                        "Ni": "-",
+                        "Room temperature volume fraction of martensite phase": "1.5%",
+                        "77K volume fraction of martensite phase": "14.4%"
+                    },
+                    {
+                        "Mn": "27.6",
+                        "Si": "6.1",
+                        "Cr": "5.0",
+                        "Ni": "-",
+                        "Room temperature volume fraction of martensite phase": "2.0%",
+                        "77K volume fraction of martensite phase": "24.3%"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "table_number": 2,
+                "content": "Table 2 shows that the amount of martensite phase for four kinds of alloys before and after cooling estimated the amount of martensite phase by cooling. The volume fraction at room temperature is measured after heating above 573K."
+            }
+        ]
+    }
+]

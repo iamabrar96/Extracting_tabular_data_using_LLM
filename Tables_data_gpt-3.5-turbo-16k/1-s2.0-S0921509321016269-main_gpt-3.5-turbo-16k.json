@@ -1,0 +1,243 @@
+[
+    {
+        "tables": [
+            {
+                "table_number": 1,
+                "table_caption": "Thermal treatments and crystallographic orientation for mechanical testing of the studied samples.",
+                "table_content": [
+                    {
+                        "Sample": "A",
+                        "Initial treatment": "'as cast'",
+                        "Ordering treatment": "970 K 20min \u0087water quench",
+                        "Orientation": "[001]"
+                    },
+                    {
+                        "Sample": "B",
+                        "Initial treatment": "'as cast'",
+                        "Ordering treatment": "1070 K 20min \u0087slow cooling",
+                        "Orientation": "[001]"
+                    },
+                    {
+                        "Sample": "C",
+                        "Initial treatment": "1420 K 1h \u0087water quench",
+                        "Ordering treatment": "970 K 20min \u0087water quench",
+                        "Orientation": "[001]"
+                    },
+                    {
+                        "Sample": "D",
+                        "Initial treatment": "'as cast'",
+                        "Ordering treatment": "970 K 20min \u0087water quench",
+                        "Orientation": "[110]"
+                    },
+                    {
+                        "Sample": "E",
+                        "Initial treatment": "1420 K 1h \u0087water quench",
+                        "Ordering treatment": "970 K 20min \u0087water quench",
+                        "Orientation": "[110]"
+                    }
+                ]
+            },
+            {
+                "table_number": 2,
+                "table_caption": "Values of the martensitic transformation temperatures (Ms, Mf, As and Af), transformation ranges (\u0394M \u0088Ms-Mf, \u0394A \u0088Af-As), peak temperatures of the direct and reverse martensitic transformation (TM and TA), transformation hysteresis (\u0394T \u0088TM-TA) and transformation enthalpy change (\u0394H) for the studied samples.",
+                "table_content": [
+                    {
+                        "Sample": "A, D",
+                        "Ms (K)": 215,
+                        "Mf (K)": 192,
+                        "\u0394M (K)": 23,
+                        "As (K)": 199,
+                        "Af (K)": 235,
+                        "\u0394A (K)": 36,
+                        "TM (K)": 203,
+                        "TA (K)": 214,
+                        "\u0394T (K)": 11,
+                        "\u0394H (J\u22c5g-1)": 3.5
+                    },
+                    {
+                        "Sample": "B",
+                        "Ms (K)": 160,
+                        "Mf (K)": 143,
+                        "\u0394M (K)": 17,
+                        "As (K)": 154,
+                        "Af (K)": 169,
+                        "\u0394A (K)": 15,
+                        "TM (K)": 150,
+                        "TA (K)": 161,
+                        "\u0394T (K)": 11,
+                        "\u0394H (J\u22c5g-1)": 2.8
+                    },
+                    {
+                        "Sample": "C, E",
+                        "Ms (K)": 204,
+                        "Mf (K)": 175,
+                        "\u0394M (K)": 29,
+                        "As (K)": 181,
+                        "Af (K)": 225,
+                        "\u0394A (K)": 44,
+                        "TM (K)": 185,
+                        "TA (K)": 192,
+                        "\u0394T (K)": 7,
+                        "\u0394H (J\u22c5g-1)": 3.6
+                    }
+                ]
+            }
+        ]
+    },
+    "{\n  \"tables\": [\n    {\n      \"header\": [\n        \"Sample\",\n        \"Ms (K)\",\n        \"Mf (K)\",\n        \"\u0394M (K)\",\n        \"As (K)\",\n        \"Af (K)\",\n        \"\u0394A (K)\",\n        \"TM (K)\",\n        \"TA (K)\",\n        \"\u0394T(K)\",\n        \"\u0394H (J\u22c5g\u00001)\"\n      ],\n      \"rows\": [\n        [\n          \"A, D\",\n          215,\n          192,\n          23,\n          199,\n          235,\n          36,\n          203,\n          214,\n          11,\n          3.5\n        ],\n        [\n          \"B\",\n          160,\n          143,\n          17,\n          154,\n          169,\n          15,\n          150,\n          161,\n          11,\n          2.8\n        ],\n        [\n          \"C, E\",\n          204,\n          175,\n          29,\n          181,\n          225,\n          44,\n          185,\n          192,\n          7,\n          3.6\n        ]\n      ]\n    },\n    {\n      \"header\": [\n        \"Sample\",\n        \"Orientation\",\n        \"\u0394S (J\u22c5kg\u00001\u22c5K\u00001)\",\n        \"\u03b5\",\n        \"(d\u03c3c/dT)CC (MPa \u22c5K\u00001)\",\n        \"(d\u03c3c/dT)exp (MPa \u22c5K\u00001)\"\n      ],\n      \"rows\": [\n        [\n          \"A\",\n          \"[001]\",\n          17.2,\n          0.046,\n          3.1,\n          3.4\n        ],\n        [\n          \"B\",\n          \"[001]\",\n          18.7,\n          0.051,\n          3.1,\n          3.2\n        ],\n        [\n          \"C\",\n          \"[001]\",\n          19.4,\n          0.048,\n          3.4,\n          3.5\n        ],\n        [\n          \"D\",\n          \"[110]\",\n          17.2,\n          0.055,\n          2.6,\n          3.0\n        ],\n        [\n          \"E\",\n          \"[110]\",\n          19.4,\n          0.058,\n          2.8,\n          2.6\n        ]\n      ]\n    }\n  ]\n}",
+    {
+        "tables": [
+            {
+                "headers": [
+                    "Sample",
+                    "Orientation",
+                    "\u0394S (J\u22c5kg\u207b\u00b9\u22c5K\u207b\u00b9)",
+                    "\u03b5 (d\u03c3c/dT)CC (MPa\u22c5K\u207b\u00b9)",
+                    "(d\u03c3c/dT)exp (MPa\u22c5K\u207b\u00b9)"
+                ],
+                "rows": [
+                    {
+                        "Sample": "A",
+                        "Orientation": "[001]",
+                        "\u0394S (J\u22c5kg\u207b\u00b9\u22c5K\u207b\u00b9)": 17.2,
+                        "\u03b5 (d\u03c3c/dT)CC (MPa\u22c5K\u207b\u00b9)": 0.046,
+                        "(d\u03c3c/dT)exp (MPa\u22c5K\u207b\u00b9)": 3.1
+                    },
+                    {
+                        "Sample": "B",
+                        "Orientation": "[001]",
+                        "\u0394S (J\u22c5kg\u207b\u00b9\u22c5K\u207b\u00b9)": 18.7,
+                        "\u03b5 (d\u03c3c/dT)CC (MPa\u22c5K\u207b\u00b9)": 0.051,
+                        "(d\u03c3c/dT)exp (MPa\u22c5K\u207b\u00b9)": 3.1
+                    },
+                    {
+                        "Sample": "C",
+                        "Orientation": "[001]",
+                        "\u0394S (J\u22c5kg\u207b\u00b9\u22c5K\u207b\u00b9)": 19.4,
+                        "\u03b5 (d\u03c3c/dT)CC (MPa\u22c5K\u207b\u00b9)": 0.048,
+                        "(d\u03c3c/dT)exp (MPa\u22c5K\u207b\u00b9)": 3.4
+                    },
+                    {
+                        "Sample": "D",
+                        "Orientation": "[110]",
+                        "\u0394S (J\u22c5kg\u207b\u00b9\u22c5K\u207b\u00b9)": 17.2,
+                        "\u03b5 (d\u03c3c/dT)CC (MPa\u22c5K\u207b\u00b9)": 0.055,
+                        "(d\u03c3c/dT)exp (MPa\u22c5K\u207b\u00b9)": 2.6
+                    },
+                    {
+                        "Sample": "E",
+                        "Orientation": "[110]",
+                        "\u0394S (J\u22c5kg\u207b\u00b9\u22c5K\u207b\u00b9)": 19.4,
+                        "\u03b5 (d\u03c3c/dT)CC (MPa\u22c5K\u207b\u00b9)": 0.058,
+                        "(d\u03c3c/dT)exp (MPa\u22c5K\u207b\u00b9)": 2.8
+                    }
+                ]
+            },
+            {
+                "headers": [
+                    "Lattice parameters",
+                    "A (L21)",
+                    "10M",
+                    "14M",
+                    "2M"
+                ],
+                "rows": [
+                    {
+                        "Lattice parameters": "a (nm)",
+                        "A (L21)": 0.576,
+                        "10M": 0.602,
+                        "14M": 0.613,
+                        "2M": 0.654
+                    },
+                    {
+                        "Lattice parameters": "b (nm)",
+                        "A (L21)": 0.576,
+                        "10M": 0.592,
+                        "14M": 0.58,
+                        "2M": 0.539
+                    },
+                    {
+                        "Lattice parameters": "c (nm)",
+                        "A (L21)": 0.576,
+                        "10M": 0.538,
+                        "14M": 0.538,
+                        "2M": 0.539
+                    },
+                    {
+                        "Lattice parameters": "\u03b5 [110] (%)",
+                        "A (L21)": -1.8,
+                        "10M": -2.9,
+                        "14M": -6.4,
+                        "2M": null
+                    },
+                    {
+                        "Lattice parameters": "\u03b5 [001] (%)",
+                        "A (L21)": -6.5,
+                        "10M": -6.5,
+                        "14M": -6.4,
+                        "2M": null
+                    },
+                    {
+                        "Lattice parameters": "\u03b5 [001] from Ref. [51] (%)",
+                        "A (L21)": -6.38,
+                        "10M": -6.38,
+                        "14M": -6.25,
+                        "2M": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "table_number": 1,
+                "title": "Table 4",
+                "data": [
+                    {
+                        "A (L21)": "0.576",
+                        "10M": "0.602",
+                        "14M": "0.613",
+                        "2M": "0.654"
+                    },
+                    {
+                        "a (nm)": "0.576",
+                        "10M": "0.592",
+                        "14M": "0.580",
+                        "2M": "0.539"
+                    },
+                    {
+                        "b (nm)": "0.576",
+                        "10M": "0.538",
+                        "14M": "0.538",
+                        "2M": "0.539"
+                    },
+                    {
+                        "\u03b5 [110] (%)": "-1.8",
+                        "\u03b5 [001] (%)": "-6.5",
+                        "\u03b5 [001] from Ref. [51] (%)": "-6.38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tables": [
+            {
+                "title": "Fig. 5",
+                "caption": "\u03c3c vs T dependence",
+                "image": "Fig. 5(a)"
+            },
+            {
+                "title": "Fig. 8",
+                "caption": "Series of micrographs",
+                "image": "Fig. 8"
+            },
+            {
+                "title": "Fig. 9",
+                "caption": "Temperature change as function of time",
+                "image": "Fig. 9"
+            }
+        ]
+    }
+]
