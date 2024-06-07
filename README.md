@@ -1,4 +1,4 @@
-# Extracting Tabular Data Using LLM
+# LLM-Enhanced-Data-Extraction-and-QA
 
 ![Flow Chart](./flow_chartio.png)
 
