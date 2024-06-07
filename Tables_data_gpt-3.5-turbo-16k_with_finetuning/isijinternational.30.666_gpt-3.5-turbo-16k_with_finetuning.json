@@ -1,0 +1,45 @@
+[
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    },
+    {
+        "Table 1": "unable to detect from the given context"
+    },
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    },
+    {
+        "Table 1": {
+            "Title": "Effect of the amount of emartensite before the heating on As and Af temperatures in the Fe-250/0Mn alloy",
+            "Header": "Amount of emartensite before Heating/%",
+            "Values": [
+                "0",
+                "5",
+                "10",
+                "15",
+                "20",
+                "25",
+                "30",
+                "35"
+            ]
+        }
+    }
+]

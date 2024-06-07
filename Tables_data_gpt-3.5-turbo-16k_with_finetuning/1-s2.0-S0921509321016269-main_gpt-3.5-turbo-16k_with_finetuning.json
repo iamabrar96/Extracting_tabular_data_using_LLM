@@ -1,0 +1,32 @@
+[
+    "Based on the given context, the following items can be identified:\n\n1) Instructions for querying the task.\n2) Keyword \"Table i\" (where i can be a number or Roman numeral).\n3) Title of the table.\n4) Header of the table.\n5) Values filled inside the table.\n6) Format of the response as a JSON object with Table [i] as keys.\n7) \"unable to detect from the given context\" as the value for missing information.\n8) JSON objects where all tables are marked as \"unable to detect from the given context.\"\n9) Removal of JSON objects with all tables marked as \"unable to detect from the given context.\"\n10) Final response as a JSON object with only the valid tables included.\n11) Exclusion of tables marked as \"unable to detect from the given context.\"",
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context"
+    },
+    {
+        "Table 2": "Values of the martensitic transformation temperatures (Ms, Mf, As and Af), transformation ranges (\u0394M \u0088Ms-Mf, \u0394A \u0088Af-As), peak temperatures of the direct and reverse martensitic transformation (TM and TA), transformation hysteresis (\u0394T \u0088TM-TA) and transformation enthalpy change (\u0394H) for the studied samples.",
+        "Table 3": "Values of transformation entropy change calculated as \u0394S \u0088\u0394H/TM, experimental values of the transformation strain, \u03b5, extrapolated to the Ms temperature, together with the theoretical and experimental values of d\u03c3c/dT obtained from the Clausius-Clapeyron equation and from the slopes of Fig. 5(a) and (c), respectively."
+    },
+    {
+        "Table 3": {
+            "Values of transformation entropy change calculated as \u0394S \u0088\u0394H/T M, experimental values of the transformation strain, \u03b5, extrapolated to the Ms temperature, together with the theoretical and experimental values of d\u03c3c/dT obtained from the Clausius-Clapeyron equation and from the slopes of Fig. 5(a) and (c), respectively.": "unable to detect from the given context"
+        },
+        "Table 4": {
+            "Lattice parameters of the austenite A and martensite (10M, 14M, 2M) phases extracted from Ref. [20] for Ni54Fe19Ga27 and theoretical transformation strains, \u03b5\u0089hkl\u008acalculated with Eq. 3 and 4 for both [001] and [110] directions.": "unable to detect from the given context"
+        }
+    },
+    "{\n  \"Tables\": {\n    \"Table 4\": {\n      \"Title\": \"Lattice parameters of the austenite A and martensite (10M, 14M, 2M) phases\",\n      \"Header\": [\"A (L21)\", \"10M\", \"14M\", \"2M\"],\n      \"Values\": [\n        [\"a (nm)\", \"0.576\", \"0.602\", \"0.613\", \"0.654\"],\n        [\"b (nm)\", \"0.576\", \"0.592\", \"0.580\", \"0.539\"],\n        [\"c (nm)\", \"0.576\", \"0.538\", \"0.538\", \"0.539\"],\n        [\"\u03b5 [110] (%)\", \"\u00001.8\", \"\u00002.9\", \"\u00006.4\"],\n        [\"\u03b5 [001] (%)\", \"\u00006.5\", \"\u00006.5\", \"\u00006.4\"],\n        [\"\u03b5 [001] from Ref. [51] (%)\", \"\u00006.38\", \"\u00006.38\", \"\u00006.25\"]\n      ]\n    }\n  }\n}",
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    }
+]

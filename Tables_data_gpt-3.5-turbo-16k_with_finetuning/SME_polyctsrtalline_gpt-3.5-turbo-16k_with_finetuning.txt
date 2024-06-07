@@ -1,0 +1,2 @@
+{'Table 1': 'unable to detect from the given context', 'Table 2': 'unable to detect from the given context'}
+{'Table 2': {'Title': 'amount of martensite phase for four kinds of alloys before and after cooling', 'Header': 'Alloy Type | Before Cooling | After Cooling', 'Values': [['S-2', '5-10%', 'unknown'], ['S-10', 'unknown', 'unknown']]}}

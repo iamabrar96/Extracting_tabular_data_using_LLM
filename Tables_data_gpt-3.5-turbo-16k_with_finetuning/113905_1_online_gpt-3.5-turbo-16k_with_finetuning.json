@@ -1,0 +1,94 @@
+[
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    },
+    {
+        "Table 1": {
+            "Title": "Composition, characteristic temperatures\u2014Martensite start Ms and Martensite \ufb01nish Mf, Austenite start As, and Austenite \ufb01nish, Af\u2014transformation enthalpies HM and HA, the thermodynamic MT temperature To, valence electron concentrations ea, and Curie temperatures Tc for all the studied alloys.",
+            "Header": [
+                "Sample",
+                "Ms (K)",
+                "Mf (K)",
+                "HM (J/g)",
+                "As (K)",
+                "Af (K)",
+                "HA (J/g)",
+                "To (K)",
+                "ea",
+                "Tc (K)"
+            ],
+            "Values": [
+                [
+                    "Ni55Fe2Ga25",
+                    "244.5",
+                    "235.1",
+                    "2.55",
+                    "246",
+                    "254.5",
+                    "1122.66",
+                    "249.5",
+                    "7.85",
+                    "35"
+                ],
+                [
+                    "Ni55Fe19Co1Ga25",
+                    "322",
+                    "32",
+                    "1.21",
+                    "37",
+                    "333",
+                    "1121.39",
+                    "327",
+                    "7.86",
+                    "329"
+                ],
+                [
+                    "Ni55Fe17Co3Ga25",
+                    "48",
+                    "4",
+                    ".71",
+                    "411.7",
+                    "422.8",
+                    "112.977",
+                    "415.4",
+                    "7.88",
+                    "341"
+                ],
+                [
+                    "Ni53Co1Fe2Ga26",
+                    "257.",
+                    "244",
+                    "2.53",
+                    "255",
+                    "267",
+                    "1122.77",
+                    "262",
+                    "7.77",
+                    "324"
+                ],
+                [
+                    "Ni52Co2Fe2Ga26",
+                    "248",
+                    "237",
+                    "2.69",
+                    "249",
+                    "257",
+                    "1122.61",
+                    "252.5",
+                    "7.76",
+                    "345"
+                ]
+            ]
+        }
+    },
+    "Unable to detect any valid tables from the given context."
+]

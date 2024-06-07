@@ -1,0 +1,210 @@
+[
+    "Unable to detect from the given context.",
+    "Table I: Nominal Alloy Compositions\nTable II: Volume Fraction of Martensite in Alloys 1-7\nTable III: Chemical Compositions of Phases in Alloys 7, 8, and 10",
+    "Table II: The table contains values filled inside it. The table structure includes the title, header, and values. The values in the table represent the amounts of emartensite present within the microstructure of alloys 1 through 7 after water quenching from the solutionizing temperature. The table also includes the lattice parameters of these phases.\n\nTable III: The table contains the chemical composition of the phase constituents present in these alloys. The composition includes the percentages of Cr, Ni, Mn, and Si in each phase.\n\nTable IV: The table includes the transformation temperatures for the c-emartensite transformation during cooling and reverse martensite to parent-phase transformation while heating. The table provides the Ms (martensite start) and As (austenite start) temperatures for each alloy.\n\nTable V: The table includes the room-temperature mechanical properties of alloys 1 through 7. The properties include the yield strength (YS), ultimate tensile strength (UTS), and ductility values obtained from tensile tests.",
+    {
+        "Table 2": {
+            "Title": "Lattice Parameter and Quantitative Rietveld Phase Analysis",
+            "Header": "Alloy Phase Lattice Parameters (nm)Volume Fraction (Pct)",
+            "Values": [
+                {
+                    "Alloy": "1",
+                    "Phase": "c",
+                    "Lattice Parameters (nm)": "a= 0.359355 nm",
+                    "Volume Fraction (Pct)": "79"
+                },
+                {
+                    "Alloy": "1",
+                    "Phase": "e",
+                    "Lattice Parameters (nm)": "a= 0.253890 nm, c= 0.410161 nm",
+                    "Volume Fraction (Pct)": "21"
+                },
+                {
+                    "Alloy": "2",
+                    "Phase": "c",
+                    "Lattice Parameters (nm)": "a= 0.359263 nm",
+                    "Volume Fraction (Pct)": "65"
+                },
+                {
+                    "Alloy": "2",
+                    "Phase": "e",
+                    "Lattice Parameters (nm)": "a= 0.2543903 nm, c= 0.410353 nm",
+                    "Volume Fraction (Pct)": "35"
+                },
+                {
+                    "Alloy": "3",
+                    "Phase": "c",
+                    "Lattice Parameters (nm)": "a= 0.359234 nm",
+                    "Volume Fraction (Pct)": "62"
+                },
+                {
+                    "Alloy": "3",
+                    "Phase": "e",
+                    "Lattice Parameters (nm)": "a= 0.253881 nm, c= 0.410851 nm",
+                    "Volume Fraction (Pct)": "38"
+                },
+                {
+                    "Alloy": "4",
+                    "Phase": "c",
+                    "Lattice Parameters (nm)": "a= 0.359499 nm",
+                    "Volume Fraction (Pct)": "77"
+                },
+                {
+                    "Alloy": "4",
+                    "Phase": "e",
+                    "Lattice Parameters (nm)": "a= 0.255803 nm, c= 0.405703 nm",
+                    "Volume Fraction (Pct)": "23"
+                },
+                {
+                    "Alloy": "5",
+                    "Phase": "c",
+                    "Lattice Parameters (nm)": "a= 0.359205 nm",
+                    "Volume Fraction (Pct)": "79"
+                },
+                {
+                    "Alloy": "5",
+                    "Phase": "e",
+                    "Lattice Parameters (nm)": "a= 0.254404 nm, c= 0.410272 nm",
+                    "Volume Fraction (Pct)": "21"
+                },
+                {
+                    "Alloy": "6",
+                    "Phase": "c",
+                    "Lattice Parameters (nm)": "a= 0.359269 nm",
+                    "Volume Fraction (Pct)": "82"
+                },
+                {
+                    "Alloy": "6",
+                    "Phase": "e",
+                    "Lattice Parameters (nm)": "a= 0.254098 nm, c= 0.410554 nm",
+                    "Volume Fraction (Pct)": "18"
+                },
+                {
+                    "Alloy": "7",
+                    "Phase": "c",
+                    "Lattice Parameters (nm)": "a= 0.359225 nm",
+                    "Volume Fraction (Pct)": "44"
+                },
+                {
+                    "Alloy": "7",
+                    "Phase": "e",
+                    "Lattice Parameters (nm)": "a= 0.252094 nm, c= 0.414406 nm",
+                    "Volume Fraction (Pct)": "7"
+                },
+                {
+                    "Alloy": "7",
+                    "Phase": "d",
+                    "Lattice Parameters (nm)": "a= 0.285693 nm",
+                    "Volume Fraction (Pct)": "49"
+                }
+            ]
+        },
+        "Table 3": {
+            "Title": "Chemical Composition of Phases",
+            "Header": "Alloy Phase Composition (Mass Pct)*",
+            "Values": [
+                {
+                    "Alloy": "1",
+                    "Phase": "c",
+                    "Composition (Mass Pct)*": "9.647 4.868 13.796 1.203"
+                },
+                {
+                    "Alloy": "2",
+                    "Phase": "c",
+                    "Composition (Mass Pct)*": "9.540 4.819 13.450 2.268"
+                },
+                {
+                    "Alloy": "3",
+                    "Phase": "c",
+                    "Composition (Mass Pct)*": "8.915 4.904 14.661 3.236"
+                },
+                {
+                    "Alloy": "4",
+                    "Phase": "c",
+                    "Composition (Mass Pct)*": "9.591 4.900 14.040 4.762"
+                },
+                {
+                    "Alloy": "5",
+                    "Phase": "c",
+                    "Composition (Mass Pct)*": "8.600 4.552 14.720 5.173"
+                },
+                {
+                    "Alloy": "6",
+                    "Phase": "c",
+                    "Composition (Mass Pct)*": "8.700 4.732 14.352 5.929"
+                },
+                {
+                    "Alloy": "7",
+                    "Phase": "c",
+                    "Composition (Mass Pct)*": "8.993 5.018 14.695 7.333"
+                },
+                {
+                    "Alloy": "7",
+                    "Phase": "d",
+                    "Composition (Mass Pct)*": "10.278 4.425 13.372 8.480"
+                },
+                {
+                    "Alloy": "8",
+                    "Phase": "d",
+                    "Composition (Mass Pct)*": "9.442 4.590 13.711 9.561"
+                },
+                {
+                    "Alloy": "8",
+                    "Phase": "c",
+                    "Composition (Mass Pct)*": "8.290 5.288 15.407 7.839"
+                },
+                {
+                    "Alloy": "Fe5Ni3Si2",
+                    "Phase": "",
+                    "Composition (Mass Pct)*": "9.816 7.840 17.940 10.802"
+                },
+                {
+                    "Alloy": "10",
+                    "Phase": "d",
+                    "Composition (Mass Pct)*": "8.929 3.668 11.903 11.005"
+                },
+                {
+                    "Alloy": "Fe5Ni3Si2",
+                    "Phase": "",
+                    "Composition (Mass Pct)*": "10.473 6.831 16.389 11.350"
+                }
+            ]
+        }
+    },
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    },
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    },
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    }
+]

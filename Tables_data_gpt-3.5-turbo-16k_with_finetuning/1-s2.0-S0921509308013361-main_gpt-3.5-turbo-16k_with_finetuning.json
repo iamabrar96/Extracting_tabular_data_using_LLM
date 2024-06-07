@@ -1,0 +1,122 @@
+[
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    },
+    {
+        "Table 1": {
+            "Title": "the transformation temperatures and valence electronic concentrations ofNi 56.5\u2212xFe17Ga 26.5Ge x,N i 56.5Fe17\u2212yGa 26.5Ge y, and Ni 56.5Fe17Ga 26.5\u2212zGe zalloys.",
+            "Header": "Ge content e/a As(\u25e6C) Af(\u25e6C) Ms(\u25e6C) MI(\u25e6C)",
+            "Values": [
+                {
+                    "Ge content": "0",
+                    "e/a": "7.805",
+                    "As(\u25e6C)": "115.3",
+                    "Af(\u25e6C)": "124.5",
+                    "Ms(\u25e6C)": "108.9",
+                    "MI(\u25e6C)": "101.1"
+                },
+                {
+                    "Ge content": "x= 0.5",
+                    "e/a": "7.775",
+                    "As(\u25e6C)": "56.5",
+                    "Af(\u25e6C)": "64.3",
+                    "Ms(\u25e6C)": "51.5",
+                    "MI(\u25e6C)": "39.3"
+                },
+                {
+                    "Ge content": "x= 1.0",
+                    "e/a": "7.745",
+                    "As(\u25e6C)": "-7.3",
+                    "Af(\u25e6C)": "2.9",
+                    "Ms(\u25e6C)": "-10.6",
+                    "MI(\u25e6C)": "-19.8"
+                },
+                {
+                    "Ge content": "x= 2.0",
+                    "e/a": "7.685",
+                    "As(\u25e6C)": "-90.3",
+                    "Af(\u25e6C)": "-81.2",
+                    "Ms(\u25e6C)": "-94.7",
+                    "MI(\u25e6C)": "-99.9"
+                },
+                {
+                    "Ge content": "y= 0.5",
+                    "e/a": "7.795",
+                    "As(\u25e6C)": "92.9",
+                    "Af(\u25e6C)": "102.4",
+                    "Ms(\u25e6C)": "86.6",
+                    "MI(\u25e6C)": "79.3"
+                },
+                {
+                    "Ge content": "y= 1.0",
+                    "e/a": "7.765",
+                    "As(\u25e6C)": "42.1",
+                    "Af(\u25e6C)": "52.9",
+                    "Ms(\u25e6C)": "38.5",
+                    "MI(\u25e6C)": "31.9"
+                },
+                {
+                    "Ge content": "y= 2.0",
+                    "e/a": "7.725",
+                    "As(\u25e6C)": "-14.2",
+                    "Af(\u25e6C)": "-3.5",
+                    "Ms(\u25e6C)": "-17.1",
+                    "MI(\u25e6C)": "-29.9"
+                },
+                {
+                    "Ge content": "z= 1.0",
+                    "e/a": "7.815",
+                    "As(\u25e6C)": "101.4",
+                    "Af(\u25e6C)": "105.3",
+                    "Ms(\u25e6C)": "89.7",
+                    "MI(\u25e6C)": "81.2"
+                },
+                {
+                    "Ge content": "z= 2.0",
+                    "e/a": "7.825",
+                    "As(\u25e6C)": "83.7",
+                    "Af(\u25e6C)": "87.7",
+                    "Ms(\u25e6C)": "74.2",
+                    "MI(\u25e6C)": "65.1"
+                },
+                {
+                    "Ge content": "z= 3.0",
+                    "e/a": "7.835",
+                    "As(\u25e6C)": "62.9",
+                    "Af(\u25e6C)": "66.8",
+                    "Ms(\u25e6C)": "54.4",
+                    "MI(\u25e6C)": "46.3"
+                },
+                {
+                    "Ge content": "z= 5.0",
+                    "e/a": "7.855",
+                    "As(\u25e6C)": "12.4",
+                    "Af(\u25e6C)": "16.3",
+                    "Ms(\u25e6C)": "2.8",
+                    "MI(\u25e6C)": "-6.7"
+                }
+            ]
+        }
+    },
+    {
+        "Table 1": "unable to detect from the given context",
+        "Table 2": "unable to detect from the given context",
+        "Table 3": "unable to detect from the given context",
+        "Table 4": "unable to detect from the given context",
+        "Table 5": "unable to detect from the given context",
+        "Table 6": "unable to detect from the given context",
+        "Table 7": "unable to detect from the given context",
+        "Table 8": "unable to detect from the given context",
+        "Table 9": "unable to detect from the given context",
+        "Table 10": "unable to detect from the given context"
+    }
+]
