@@ -1,6 +1,6 @@
 # Extracting Tabular Data Using LLM
 
-![Flow Chart](./flow_chart.png)
+![Flow Chart](./flow_chartio.png)
 
 This repository facilitates efficient extraction, analysis, and question answering of tabular data from research articles using large language models (LLMs) like GPT-3.5-turbo-16k and GPT-4.
 
