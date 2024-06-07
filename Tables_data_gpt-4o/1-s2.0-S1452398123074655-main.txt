@@ -1,0 +1,100 @@
+```json
+{
+  "Main Title": "Transformation Temperatures and Electrochemical behavior of Polycrystalline Fe-Doped Ni-Mn-Ga and Co-Ni-Ga Alloys",
+  "DOI": "10.20964/2018.07.08",
+  "Tables": [
+    {
+      "Table 1": {
+        "Composition and transition temperatures of the alloys studied": [
+          {
+            "Alloy": "Ni52.7Mn21.9Ga25.4",
+            "Co at.%": 0,
+            "Ni at.%": 52.7,
+            "Mn at.%": 21.9,
+            "Ga at.%": 25.4,
+            "Fe at.%": 0,
+            "Ms°C": 13.4,
+            "Mf°C": 4.7,
+            "As°C": 8,
+            "Af°C": 17.1
+          },
+          {
+            "Alloy": "Co38.3Ni32.1Ga29.6",
+            "Co at.%": 38.3,
+            "Ni at.%": 32.1,
+            "Mn at.%": 0,
+            "Ga at.%": 29.6,
+            "Fe at.%": 0,
+            "Ms°C": 316.9,
+            "Mf°C": 275.8,
+            "As°C": 450.9,
+            "Af°C": 490.3
+          },
+          {
+            "Alloy": "Ni51.0Mn24.7Ga23.4Fe0.9",
+            "Co at.%": 0,
+            "Ni at.%": 51.0,
+            "Mn at.%": 24.7,
+            "Ga at.%": 23.4,
+            "Fe at.%": 0.9,
+            "Ms°C": -0.1,
+            "Mf°C": -5.8,
+            "As°C": 1.5,
+            "Af°C": 5.3
+          },
+          {
+            "Alloy": "Ni51.8Mn24.8Ga21.7Fe1.7",
+            "Co at.%": 0,
+            "Ni at.%": 51.8,
+            "Mn at.%": 24.8,
+            "Ga at.%": 21.7,
+            "Fe at.%": 1.7,
+            "Ms°C": 55.7,
+            "Mf°C": 41.7,
+            "As°C": 46.1,
+            "Af°C": 59.9
+          },
+          {
+            "Alloy": "Ni51.5Mn22.5Ga23.9Fe2.1",
+            "Co at.%": 0,
+            "Ni at.%": 51.5,
+            "Mn at.%": 22.5,
+            "Ga at.%": 23.9,
+            "Fe at.%": 2.1,
+            "Ms°C": 6.9,
+            "Mf°C": 0.8,
+            "As°C": 7.2,
+            "Af°C": 15.0
+          }
+        ]
+      }
+    },
+    {
+      "Table 2": {
+        "icorr for studied alloys in an electrolyte - 3.5 wt% NaCl": [
+          {
+            "Alloy": "Ni52.7Mn21.9Ga25.4",
+            "icorr (nA/cm2)": 1678.10
+          },
+          {
+            "Alloy": "Co38.3Ni32.1Ga29.6",
+            "icorr (nA/cm2)": 347.77
+          },
+          {
+            "Alloy": "Ni51.0Mn24.7Ga23.4Fe0.9",
+            "icorr (nA/cm2)": 360.90
+          },
+          {
+            "Alloy": "Ni51.8Mn24.8Ga21.7Fe1.7",
+            "icorr (nA/cm2)": 182.64
+          },
+          {
+            "Alloy": "Ni51.5Mn22.5Ga23.9Fe2.1",
+            "icorr (nA/cm2)": 150.18
+          }
+        ]
+      }
+    }
+  ]
+}
+```

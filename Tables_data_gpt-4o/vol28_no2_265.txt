@@ -1,0 +1,33 @@
+```json
+{
+  "Main Title": "Magnetic and martensitic phase transitions in the Ni-Al-Fe shape memory alloys",
+  "DOI": "10.14723/tmrsj.28.263",
+  "Tables": [
+    {
+      "Title": "Table 1: The Composition, martensitic characterized temperature and the Curie temperature of Ni7S-xFexA1 15 alloys.",
+      "Headers": ["Alloy", "Ms(K)", "Mf(K)", "As(K)", "Af(K)", "Tc(K)", "Tk(K)", "To(K)"],
+      "Rows": [
+        ["Nis6.sFeu.sAhs", "410", "379", "409", "438", "220", "28", "424"],
+        ["Niss.sFe19.sAhs", "330", "312", "337", "354", "241", "24", "342"],
+        ["NissFe1oAhs", "290", "272", "297", "312", "247", "22", "301"],
+        ["Nis4.sFe1o.sAhs", "252", "238", "258", "276", "24", "264"],
+        ["Nis4FeuAhs", "219", "203", "221", "236", "17", "227.5"],
+        ["Nis3.sFen.sAhs", "172", "149", "172", "195", "23", "183.5"],
+        ["Nis3Fe11Ahs", "152*", "17~"],
+        ["Nis1.1FemAhs", "12.5*", "15~", "157"],
+        ["Nis1Fe13Ahs", "166"],
+        ["Nis1FeuAhs", "184"],
+        ["NisoFe1sAhs", "202"],
+        ["Nis4FeuAhs", "219", "203", "221", "236", "17", "227.5"],
+        ["Nis3.sFen.sAhs", "172", "149", "172", "195", "23", "183.5"],
+        ["Nis3Fe11Ahs", "152*", "17~"],
+        ["Nis1.1FemAhs", "12.5*", "15~", "157"],
+        ["Nis1Fe13Ahs", "166"],
+        ["Nis1FeuAhs", "184"],
+        ["NisoFe1sAhs", "202"]
+      ],
+      "Footnote": "M., Mr, A., Ar and Tc: martesite start, martensite finish, austenite start, austenite finish and Curie temperatures. Tk =Ar-M.: martensite transformation hysterisis and To=(At+M.)/2: equilibrium temperature. * A. and Ar were determined from the M-T curve."
+    }
+  ]
+}
+```

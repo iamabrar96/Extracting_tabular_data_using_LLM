@@ -1,0 +1,86 @@
+```json
+{
+  "Main Title": "Effects of cobalt content on martensitic transformation and shape memory effect in Fe-Mn-Si-Cr-Ni alloys",
+  "DOI": "10.1051/p4:2003909",
+  "Tables": [
+    {
+      "Table Title": "Table 1. Composition of Alloys, wt%",
+      "Content": [
+        {
+          "Alloy": "No. 1",
+          "Co": "0.39",
+          "Mn": "14.07",
+          "Si": "6.14",
+          "Cr": "12.12",
+          "Ni": "5.06",
+          "Fe": "balance"
+        },
+        {
+          "Alloy": "No. 2",
+          "Co": "0.98",
+          "Mn": "13.31",
+          "Si": "6.81",
+          "Cr": "13.32",
+          "Ni": "4.98",
+          "Fe": "balance"
+        },
+        {
+          "Alloy": "No. 3",
+          "Co": "2.77",
+          "Mn": "13.84",
+          "Si": "6.49",
+          "Cr": "13.12",
+          "Ni": "5.14",
+          "Fe": "balance"
+        },
+        {
+          "Alloy": "No. 4",
+          "Co": "3.93",
+          "Mn": "13.78",
+          "Si": "6.58",
+          "Cr": "13.29",
+          "Ni": "4.95",
+          "Fe": "balance"
+        }
+      ]
+    },
+    {
+      "Table Title": "Table 2. Effects of Co contents on Ms, Psf, n, 00.2",
+      "Content": [
+        {
+          "Alloy": "No. 1",
+          "Co (wt%)": "0.39",
+          "Ms (K)": "286.5",
+          "Psf (x10^-3)": "2.24",
+          "n": "0.1368",
+          "σ0.2 (MPa)": "436.0"
+        },
+        {
+          "Alloy": "No. 2",
+          "Co (wt%)": "0.98",
+          "Ms (K)": "288.5",
+          "Psf (x10^-3)": "2.51",
+          "n": "0.1410",
+          "σ0.2 (MPa)": "392.2"
+        },
+        {
+          "Alloy": "No. 3",
+          "Co (wt%)": "2.77",
+          "Ms (K)": "290.5",
+          "Psf (x10^-3)": "3.11",
+          "n": "0.1458",
+          "σ0.2 (MPa)": "424.4"
+        },
+        {
+          "Alloy": "No. 4",
+          "Co (wt%)": "3.93",
+          "Ms (K)": "294.3",
+          "Psf (x10^-3)": "4.99",
+          "n": "0.1474",
+          "σ0.2 (MPa)": "380.7"
+        }
+      ]
+    }
+  ]
+}
+```

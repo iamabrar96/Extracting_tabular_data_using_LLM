@@ -1,0 +1,38 @@
+```json
+{
+  "Main Title": "COMMENT ON “INFLUENCE OF AUSTENITE GRAIN SIZE ON y - e MARTENSITIC TRANSFORMATION TEMPERATURE IN Fe-Mn-Si-Cr ALLOYS”",
+  "DOI": "0956-716X(95)00576-5",
+  "Tables": [
+    {
+      "Title": "M_s of y - e for Various Austenitizing Temperatures",
+      "Content": [
+        {
+          "Austenitizing temper. (k)": 1073,
+          "mean grain size of y (µm)": 20.62,
+          "M_s temper. (k)": 307
+        },
+        {
+          "Austenitizing temper. (k)": 1123,
+          "mean grain size of y (µm)": 23.70,
+          "M_s temper. (k)": 311
+        },
+        {
+          "Austenitizing temper. (k)": 1173,
+          "mean grain size of y (µm)": 28.30,
+          "M_s temper. (k)": 311
+        },
+        {
+          "Austenitizing temper. (k)": 1223,
+          "mean grain size of y (µm)": 34.58,
+          "M_s temper. (k)": 313
+        },
+        {
+          "Austenitizing temper. (k)": 1273,
+          "mean grain size of y (µm)": 37.12,
+          "M_s temper. (k)": 313
+        }
+      ]
+    }
+  ]
+}
+```

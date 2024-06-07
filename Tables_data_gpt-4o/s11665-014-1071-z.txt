@@ -1,0 +1,55 @@
+```json
+{
+  "Main Title": "Optimization of Shape-Memory Effect in Fe-Mn-Si-Cr-Re Shape-Memory Alloys",
+  "DOI": "10.1007/s11665-014-1071-z",
+  "Tables": [
+    {
+      "Table 1": {
+        "Title": "The ICP-AES measured compositions and DSC measured transformation temperatures of Fe30Mn6Si5Cr-Re alloys",
+        "Content": [
+          {
+            "Alloy": "Fe-30Mn-6Si-5Cr",
+            "Fe": "Bal.",
+            "Mn": "30.0",
+            "Si": "6.0",
+            "Cr": "5.1",
+            "Re": "0",
+            "Ms (°C)": "4.32",
+            "As (°C)": "121.36"
+          },
+          {
+            "Alloy": "Fe-30Mn-6Si-5Cr-0.05Re",
+            "Fe": "Bal.",
+            "Mn": "30.7",
+            "Si": "6.1",
+            "Cr": "4.9",
+            "Re": "0.04",
+            "Ms (°C)": "6.51",
+            "As (°C)": "118.97"
+          },
+          {
+            "Alloy": "Fe-30Mn-6Si-5Cr-0.1Re",
+            "Fe": "Bal.",
+            "Mn": "30.5",
+            "Si": "5.9",
+            "Cr": "4.9",
+            "Re": "0.09",
+            "Ms (°C)": "12.20",
+            "As (°C)": "117.81"
+          },
+          {
+            "Alloy": "Fe-30Mn-6Si-5Cr-0.3Re",
+            "Fe": "Bal.",
+            "Mn": "31.0",
+            "Si": "6.2",
+            "Cr": "4.8",
+            "Re": "0.28",
+            "Ms (°C)": "17.53",
+            "As (°C)": "117.32"
+          }
+        ]
+      }
+    }
+  ]
+}
+```

@@ -1,0 +1,59 @@
+```json
+{
+  "Main Title": "Superelastic behavior and elastocaloric effect in a Ni51.5Fe21.5Ga27.0 ferromagnetic shape memory single crystal under compression",
+  "DOI": "https://doi.org/10.1016/j.msea.2021.142362",
+  "Tables": [
+    {
+      "Table 1": {
+        "Title": "Thermal treatments and crystallographic orientation for mechanical testing of the studied samples.",
+        "Headers": ["Sample", "Initial treatment", "Ordering treatment", "Orientation"],
+        "Rows": [
+          ["A", "'as cast'", "970 K 20min \u00a7water quench", "[001]"],
+          ["B", "'as cast'", "1070 K 20min \u00a7slow cooling", "[001]"],
+          ["C", "1420 K 1h \u00a7water quench", "970 K 20min \u00a7water quench", "[001]"],
+          ["D", "'as cast'", "970 K 20min \u00a7water quench", "[110]"],
+          ["E", "1420 K 1h \u00a7water quench", "970 K 20min \u00a7water quench", "[110]"]
+        ]
+      }
+    },
+    {
+      "Table 2": {
+        "Title": "Values of the martensitic transformation temperatures (Ms, Mf, As and Af), transformation ranges (ΔM ≡ Ms−Mf, ΔA ≡ Af−As), peak temperatures of the direct and reverse martensitic transformation (TM and TA), transformation hysteresis (ΔT ≡ TM−TA) and transformation enthalpy change (ΔH) for the studied samples.",
+        "Headers": ["Sample", "Ms (K)", "Mf (K)", "ΔM (K)", "As (K)", "Af (K)", "ΔA (K)", "TM (K)", "TA (K)", "ΔT(K)", "ΔH (J⋅g−1)"],
+        "Rows": [
+          ["A, D", "215", "192", "23", "199", "235", "36", "203", "214", "11", "3.5"],
+          ["B", "160", "143", "17", "154", "169", "15", "150", "161", "11", "2.8"],
+          ["C, E", "204", "175", "29", "181", "225", "44", "185", "192", "7", "3.6"]
+        ]
+      }
+    },
+    {
+      "Table 3": {
+        "Title": "Values of transformation entropy change calculated as ΔS ≡ ΔH/TM, experimental values of the transformation strain, ε, extrapolated to the Ms temperature, together with the theoretical and experimental values of dσc/dT obtained from the Clausius-Clapeyron equation and from the slopes of Fig. 5(a) and (c), respectively.",
+        "Headers": ["Sample", "Orientation", "ΔS (J⋅kg−1⋅K−1)", "ε", "(dσc/dT)CC (MPa ⋅K−1)", "(dσc/dT)exp (MPa ⋅K−1)"],
+        "Rows": [
+          ["A", "[001]", "17.2", "0.046", "3.1", "3.4"],
+          ["B", "[001]", "18.7", "0.051", "3.1", "3.2"],
+          ["C", "[001]", "19.4", "0.048", "3.4", "3.5"],
+          ["D", "[110]", "17.2", "0.055", "2.6", "3.0"],
+          ["E", "[110]", "19.4", "0.058", "2.8", "2.6"]
+        ]
+      }
+    },
+    {
+      "Table 4": {
+        "Title": "Lattice parameters of the austenite A and martensite (10M, 14M, 2M) phases extracted from Ref. [20] for Ni54Fe19Ga27 and theoretical transformation strains, ε≡hkl calculated with Eq. 3 and 4 for both [001] and [110] directions.",
+        "Headers": ["A (L21)", "10M", "14M", "2M"],
+        "Rows": [
+          ["a (nm)", "0.576", "0.602", "0.613", "0.654"],
+          ["b (nm)", "0.576", "0.592", "0.580", "0.539"],
+          ["c (nm)", "0.576", "0.538", "0.538", "0.539"],
+          ["ε [110] (%)", "−1.8", "−2.9", "−6.4"],
+          ["ε [001] (%)", "−6.5", "−6.5", "−6.4"],
+          ["ε [001] from Ref. [51] (%)", "−6.38", "−6.38", "−6.25"]
+        ]
+      }
+    }
+  ]
+}
+```

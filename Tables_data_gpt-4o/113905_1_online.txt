@@ -1,0 +1,76 @@
+```json
+{
+  "Main Title": "Martensitic transformation and accompanying magnetic changes in Ni–Fe–Ga–Co alloys",
+  "DOI": "https://doi.org/1.163/1.3429231",
+  "Tables": [
+    {
+      "Table I": {
+        "Description": "Composition, characteristic temperatures—Martensite start (Ms) and Martensite finish (Mf), Austenite start (As), and Austenite finish (Af)—transformation enthalpies (ΔHM and ΔHA), the thermodynamic MT temperature (To), valence electron concentrations (e/a) and Curie temperatures (Tc) for all the studied alloys.",
+        "Columns": ["Sample", "Ms (K)", "Mf (K)", "ΔHM (J/g)", "As (K)", "Af (K)", "ΔHA (J/g)", "To (K)", "e/a", "Tc (K)"],
+        "Rows": [
+          {
+            "Sample": "Ni55Fe2Ga25",
+            "Ms (K)": 244.5,
+            "Mf (K)": 235.1,
+            "ΔHM (J/g)": 2.55,
+            "As (K)": 246,
+            "Af (K)": 254.5,
+            "ΔHA (J/g)": 2.66,
+            "To (K)": 249.5,
+            "e/a": 7.85,
+            "Tc (K)": 35
+          },
+          {
+            "Sample": "Ni55Fe19Co1Ga25",
+            "Ms (K)": 322,
+            "Mf (K)": 320,
+            "ΔHM (J/g)": 1.21,
+            "As (K)": 327,
+            "Af (K)": 333,
+            "ΔHA (J/g)": 1.39,
+            "To (K)": 327,
+            "e/a": 7.86,
+            "Tc (K)": 329
+          },
+          {
+            "Sample": "Ni55Fe17Co3Ga25",
+            "Ms (K)": 480,
+            "Mf (K)": 470,
+            "ΔHM (J/g)": 0.71,
+            "As (K)": 411.7,
+            "Af (K)": 422.8,
+            "ΔHA (J/g)": 0.977,
+            "To (K)": 415.4,
+            "e/a": 7.88,
+            "Tc (K)": 341
+          },
+          {
+            "Sample": "Ni53Co1Fe2Ga26",
+            "Ms (K)": 257,
+            "Mf (K)": 244,
+            "ΔHM (J/g)": 2.53,
+            "As (K)": 255,
+            "Af (K)": 267,
+            "ΔHA (J/g)": 2.77,
+            "To (K)": 262,
+            "e/a": 7.77,
+            "Tc (K)": 324
+          },
+          {
+            "Sample": "Ni52Co2Fe2Ga26",
+            "Ms (K)": 248,
+            "Mf (K)": 237,
+            "ΔHM (J/g)": 2.69,
+            "As (K)": 249,
+            "Af (K)": 257,
+            "ΔHA (J/g)": 2.61,
+            "To (K)": 252.5,
+            "e/a": 7.76,
+            "Tc (K)": 345
+          }
+        ]
+      }
+    }
+  ]
+}
+```

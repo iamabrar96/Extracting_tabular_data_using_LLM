@@ -1,0 +1,24 @@
+```json
+{
+  "Main Title": "Effect of Transformation Cycling on the Martensitic Transformation in Fe-Mn Alloys",
+  "DOI": "10.2355/isijinternational.30.666",
+  "Tables": [
+    {
+      "Table 1": {
+        "Chemical compositions (mass%) and Ms, As and Af temperatures (K) in the first thermal cycle of the alloys": {
+          "Alloy": ["Fe-17%Mn", "Fe-25%Mn"],
+          "C": ["0.0010", "0.0020"],
+          "Si": ["0.005", "0.005"],
+          "Mn": ["16.6", "24.4"],
+          "P": ["0.0014", "0.005"],
+          "S": ["0.0004", "0.005"],
+          "Fe": ["bal.", "bal."],
+          "Ms": ["433", "366"],
+          "As": ["453", "407"],
+          "Af": ["486", "436"]
+        }
+      }
+    }
+  ]
+}
+```

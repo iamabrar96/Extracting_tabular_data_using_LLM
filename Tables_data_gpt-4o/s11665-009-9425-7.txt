@@ -1,0 +1,37 @@
+```json
+{
+  "Main Title": "Properties of Co-alloyed Ni-Fe-Ga Ferromagnetic Shape Memory Alloys",
+  "DOI": "10.1007/s11665-009-9425-7",
+  "Tables": [
+    {
+      "Table 1": {
+        "Title": "Compositions, heat treatment, crystal orientation and martensitic (TM, TA), and Curie (TC) transformation temperatures of single crystals used for mechanical and magneto-mechanical tests",
+        "Headers": ["Single crystal", "Composition, at.%", "Heat treatment", "Lattice orientation along tensile axis", "Transformation temperatures, /C176C"],
+        "Rows": [
+          {
+            "Single crystal": "#1",
+            "Composition, at.%": "Ni: 52.4, Fe: 23.2, Ga: 24.4, Co: ÆÆÆ",
+            "Heat treatment": "As-grown",
+            "Lattice orientation along tensile axis": "ÆÆÆ",
+            "Transformation temperatures, /C176C": "TM: /C045, TA: /C020, TC: 51"
+          },
+          {
+            "Single crystal": "#2",
+            "Composition, at.%": "Ni: 53.0, Fe: 12.0, Ga: 26.9, Co: 8.1",
+            "Heat treatment": "1100 /C176C for 24 h +650 /C176C 100 h",
+            "Lattice orientation along tensile axis": "ÆÆÆ",
+            "Transformation temperatures, /C176C": "TM: 20, TA: 65, TC: 42"
+          },
+          {
+            "Single crystal": "#3",
+            "Composition, at.%": "Ni: 50.0, Fe: 17.0, Ga: 27.0, Co: 6.0",
+            "Heat treatment": "As-grown",
+            "Lattice orientation along tensile axis": "Æ10 6 13 æ",
+            "Transformation temperatures, /C176C": "TM: 45, TA: 55, TC: 70"
+          }
+        ]
+      }
+    }
+  ]
+}
+```
