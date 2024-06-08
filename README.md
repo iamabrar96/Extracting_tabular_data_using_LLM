@@ -1,6 +1,6 @@
 # LLM-Enhanced-Data-Extraction-and-QA
 
-![Flow Chart](./flow_chartio.png)
+![Flow Chart](./Modified_flow_chart.png)
 
 This repository facilitates efficient extraction, analysis, and question answering of tabular data from research articles using large language models (LLMs) like GPT-3.5-turbo-16k and GPT-4.
 
