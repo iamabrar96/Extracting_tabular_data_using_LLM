@@ -1,0 +1,1545 @@
+[
+    {
+        "paper_id": "Paper 1",
+        "tables": [
+            [
+                {
+                    "Austenitizing temper. (k)": "None",
+                    "mean grain size of y (\u00b5m)": "None",
+                    "M_s temper. (k)": "None"
+                },
+                {
+                    "Austenitizing temper. (k)": "None",
+                    "mean grain size of y (\u00b5m)": "None",
+                    "M_s temper. (k)": "None"
+                },
+                {
+                    "Austenitizing temper. (k)": "None",
+                    "mean grain size of y (\u00b5m)": "None",
+                    "M_s temper. (k)": "None"
+                },
+                {
+                    "Austenitizing temper. (k)": "None",
+                    "mean grain size of y (\u00b5m)": "None",
+                    "M_s temper. (k)": "None"
+                },
+                {
+                    "Austenitizing temper. (k)": "None",
+                    "mean grain size of y (\u00b5m)": "None",
+                    "M_s temper. (k)": "None"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 2",
+        "tables": [
+            [
+                {
+                    "Ge content": 0,
+                    "e/a": 7.805,
+                    "As(\u00b0C)": 115.3,
+                    "Af(\u00b0C)": 124.5,
+                    "Ms(\u00b0C)": 108.9,
+                    "Mf(\u00b0C)": 101.1
+                },
+                {
+                    "Ge content": 0.5,
+                    "e/a": 7.775,
+                    "As(\u00b0C)": 56.5,
+                    "Af(\u00b0C)": 64.3,
+                    "Ms(\u00b0C)": 51.5,
+                    "Mf(\u00b0C)": 39.3
+                },
+                {
+                    "Ge content": 1.0,
+                    "e/a": 7.745,
+                    "As(\u00b0C)": -7.3,
+                    "Af(\u00b0C)": 2.9,
+                    "Ms(\u00b0C)": -10.6,
+                    "Mf(\u00b0C)": -19.8
+                },
+                {
+                    "Ge content": 2.0,
+                    "e/a": 7.685,
+                    "As(\u00b0C)": -90.3,
+                    "Af(\u00b0C)": -81.2,
+                    "Ms(\u00b0C)": -94.7,
+                    "Mf(\u00b0C)": -99.9
+                },
+                {
+                    "Ge content": 0.5,
+                    "e/a": 7.795,
+                    "As(\u00b0C)": 92.9,
+                    "Af(\u00b0C)": 102.4,
+                    "Ms(\u00b0C)": 86.6,
+                    "Mf(\u00b0C)": 79.3
+                },
+                {
+                    "Ge content": 1.0,
+                    "e/a": 7.765,
+                    "As(\u00b0C)": 42.1,
+                    "Af(\u00b0C)": 52.9,
+                    "Ms(\u00b0C)": 38.5,
+                    "Mf(\u00b0C)": 31.9
+                },
+                {
+                    "Ge content": 2.0,
+                    "e/a": 7.725,
+                    "As(\u00b0C)": -14.2,
+                    "Af(\u00b0C)": -3.5,
+                    "Ms(\u00b0C)": -17.1,
+                    "Mf(\u00b0C)": -29.9
+                },
+                {
+                    "Ge content": 1.0,
+                    "e/a": 7.815,
+                    "As(\u00b0C)": 101.4,
+                    "Af(\u00b0C)": 105.3,
+                    "Ms(\u00b0C)": 89.7,
+                    "Mf(\u00b0C)": 81.2
+                },
+                {
+                    "Ge content": 2.0,
+                    "e/a": 7.825,
+                    "As(\u00b0C)": 83.7,
+                    "Af(\u00b0C)": 87.7,
+                    "Ms(\u00b0C)": 74.2,
+                    "Mf(\u00b0C)": 65.1
+                },
+                {
+                    "Ge content": 3.0,
+                    "e/a": 7.835,
+                    "As(\u00b0C)": 62.9,
+                    "Af(\u00b0C)": 66.8,
+                    "Ms(\u00b0C)": 54.4,
+                    "Mf(\u00b0C)": 46.3
+                },
+                {
+                    "Ge content": 5.0,
+                    "e/a": 7.855,
+                    "As(\u00b0C)": 12.4,
+                    "Af(\u00b0C)": 16.3,
+                    "Ms(\u00b0C)": 2.8,
+                    "Mf(\u00b0C)": -6.7
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 3",
+        "tables": [
+            [
+                {
+                    "Sample": "A",
+                    "Initial treatment": "\u2018as cast\u2019",
+                    "Ordering treatment": "970 K 20min water quench",
+                    "Orientation": "[001]"
+                },
+                {
+                    "Sample": "B",
+                    "Initial treatment": "\u2018as cast\u2019",
+                    "Ordering treatment": "1070 K 20min slow cooling",
+                    "Orientation": "[001]"
+                },
+                {
+                    "Sample": "C",
+                    "Initial treatment": "1420 K 1h water quench",
+                    "Ordering treatment": "970 K 20min water quench",
+                    "Orientation": "[001]"
+                },
+                {
+                    "Sample": "D",
+                    "Initial treatment": "\u2018as cast\u2019",
+                    "Ordering treatment": "970 K 20min water quench",
+                    "Orientation": "[110]"
+                },
+                {
+                    "Sample": "E",
+                    "Initial treatment": "1420 K 1h water quench",
+                    "Ordering treatment": "970 K 20min water quench",
+                    "Orientation": "[110]"
+                }
+            ],
+            [
+                {
+                    "Sample": "A, D",
+                    "Ms (K)": 215,
+                    "Mf (K)": 192,
+                    "\u0394M (K)": 23,
+                    "As (K)": 199,
+                    "Af (K)": 235,
+                    "\u0394A (K)": 36,
+                    "TM (K)": 203,
+                    "TA (K)": 214,
+                    "\u0394T (K)": 11,
+                    "\u0394H (J\u22c5g-1)": 3.5
+                },
+                {
+                    "Sample": "B",
+                    "Ms (K)": 160,
+                    "Mf (K)": 143,
+                    "\u0394M (K)": 17,
+                    "As (K)": 154,
+                    "Af (K)": 169,
+                    "\u0394A (K)": 15,
+                    "TM (K)": 150,
+                    "TA (K)": 161,
+                    "\u0394T (K)": 11,
+                    "\u0394H (J\u22c5g-1)": 2.8
+                },
+                {
+                    "Sample": "C, E",
+                    "Ms (K)": 204,
+                    "Mf (K)": 175,
+                    "\u0394M (K)": 29,
+                    "As (K)": 181,
+                    "Af (K)": 225,
+                    "\u0394A (K)": 44,
+                    "TM (K)": 185,
+                    "TA (K)": 192,
+                    "\u0394T (K)": 7,
+                    "\u0394H (J\u22c5g-1)": 3.6
+                }
+            ],
+            [
+                {
+                    "Sample": "None",
+                    "Orientation": "None",
+                    "\u0394S (J\u22c5kg-1\u22c5K-1)": "None",
+                    "\u03b5": "None",
+                    "(d\u03c3c/dT)CC (MPa\u22c5K-1)": "None",
+                    "(d\u03c3c/dT)exp (MPa\u22c5K-1)": "None"
+                },
+                {
+                    "Sample": "None",
+                    "Orientation": "None",
+                    "\u0394S (J\u22c5kg-1\u22c5K-1)": "None",
+                    "\u03b5": "None",
+                    "(d\u03c3c/dT)CC (MPa\u22c5K-1)": "None",
+                    "(d\u03c3c/dT)exp (MPa\u22c5K-1)": "None"
+                },
+                {
+                    "Sample": "None",
+                    "Orientation": "None",
+                    "\u0394S (J\u22c5kg-1\u22c5K-1)": "None",
+                    "\u03b5": "None",
+                    "(d\u03c3c/dT)CC (MPa\u22c5K-1)": "None",
+                    "(d\u03c3c/dT)exp (MPa\u22c5K-1)": "None"
+                },
+                {
+                    "Sample": "None",
+                    "Orientation": "None",
+                    "\u0394S (J\u22c5kg-1\u22c5K-1)": "None",
+                    "\u03b5": "None",
+                    "(d\u03c3c/dT)CC (MPa\u22c5K-1)": "None",
+                    "(d\u03c3c/dT)exp (MPa\u22c5K-1)": "None"
+                },
+                {
+                    "Sample": "None",
+                    "Orientation": "None",
+                    "\u0394S (J\u22c5kg-1\u22c5K-1)": "None",
+                    "\u03b5": "None",
+                    "(d\u03c3c/dT)CC (MPa\u22c5K-1)": "None",
+                    "(d\u03c3c/dT)exp (MPa\u22c5K-1)": "None"
+                }
+            ],
+            [
+                {
+                    "Phase": "A (L21)",
+                    "a (nm)": 0.576,
+                    "b (nm)": 0.576,
+                    "c (nm)": 0.576,
+                    "\u03b5 [110] (%)": -1.8,
+                    "\u03b5 [001] (%)": -6.5,
+                    "\u03b5 [001] from Ref. [51] (%)": -6.38
+                },
+                {
+                    "Phase": "10M",
+                    "a (nm)": 0.602,
+                    "b (nm)": 0.592,
+                    "c (nm)": 0.538,
+                    "\u03b5 [110] (%)": -2.9,
+                    "\u03b5 [001] (%)": -6.5,
+                    "\u03b5 [001] from Ref. [51] (%)": -6.38
+                },
+                {
+                    "Phase": "14M",
+                    "a (nm)": 0.613,
+                    "b (nm)": 0.58,
+                    "c (nm)": 0.538,
+                    "\u03b5 [110] (%)": -6.4,
+                    "\u03b5 [001] (%)": -6.4,
+                    "\u03b5 [001] from Ref. [51] (%)": -6.25
+                },
+                {
+                    "Phase": "2M",
+                    "a (nm)": 0.654,
+                    "b (nm)": 0.539,
+                    "c (nm)": 0.539,
+                    "\u03b5 [110] (%)": -6.4,
+                    "\u03b5 [001] (%)": -6.4,
+                    "\u03b5 [001] from Ref. [51] (%)": -6.25
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 4",
+        "tables": [
+            [
+                {
+                    "Sample": "Ni55Fe2Ga25",
+                    "Ms (K)": 244.5,
+                    "Mf (K)": 235.1,
+                    "\u0394HM (J/g)": 2.55,
+                    "As (K)": 246,
+                    "Af (K)": 254.5,
+                    "\u0394HA (J/g)": 2.66,
+                    "To (K)": 249.5,
+                    "e/a": 7.85,
+                    "Tc (K)": 350
+                },
+                {
+                    "Sample": "Ni55Fe19Co1Ga25",
+                    "Ms (K)": 322,
+                    "Mf (K)": 320,
+                    "\u0394HM (J/g)": 1.21,
+                    "As (K)": 327,
+                    "Af (K)": 333,
+                    "\u0394HA (J/g)": 1.39,
+                    "To (K)": 327,
+                    "e/a": 7.86,
+                    "Tc (K)": 329
+                },
+                {
+                    "Sample": "Ni55Fe17Co3Ga25",
+                    "Ms (K)": 480,
+                    "Mf (K)": 470,
+                    "\u0394HM (J/g)": 0.71,
+                    "As (K)": 411.7,
+                    "Af (K)": 422.8,
+                    "\u0394HA (J/g)": 0.977,
+                    "To (K)": 415.4,
+                    "e/a": 7.88,
+                    "Tc (K)": 341
+                },
+                {
+                    "Sample": "Ni53Co1Fe2Ga26",
+                    "Ms (K)": 257,
+                    "Mf (K)": 244,
+                    "\u0394HM (J/g)": 2.53,
+                    "As (K)": 255,
+                    "Af (K)": 267,
+                    "\u0394HA (J/g)": 2.77,
+                    "To (K)": 262,
+                    "e/a": 7.77,
+                    "Tc (K)": 324
+                },
+                {
+                    "Sample": "Ni52Co2Fe2Ga26",
+                    "Ms (K)": 248,
+                    "Mf (K)": 237,
+                    "\u0394HM (J/g)": 2.69,
+                    "As (K)": 249,
+                    "Af (K)": 257,
+                    "\u0394HA (J/g)": 2.61,
+                    "To (K)": 252.5,
+                    "e/a": 7.76,
+                    "Tc (K)": 345
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 5",
+        "tables": [
+            [
+                {
+                    "Alloy": "0Co",
+                    "Mn": "30",
+                    "Si": "6",
+                    "Co": "0",
+                    "Fe": "64",
+                    "Hot Rollability": "successful"
+                },
+                {
+                    "Alloy": "1Co",
+                    "Mn": "30",
+                    "Si": "6",
+                    "Co": "1",
+                    "Fe": "63",
+                    "Hot Rollability": "successful"
+                },
+                {
+                    "Alloy": "3Co",
+                    "Mn": "30",
+                    "Si": "6",
+                    "Co": "3",
+                    "Fe": "61",
+                    "Hot Rollability": "successful"
+                },
+                {
+                    "Alloy": "5Co",
+                    "Mn": "30",
+                    "Si": "6",
+                    "Co": "5",
+                    "Fe": "59",
+                    "Hot Rollability": "successful"
+                },
+                {
+                    "Alloy": "7Co",
+                    "Mn": "30",
+                    "Si": "6",
+                    "Co": "7",
+                    "Fe": "57",
+                    "Hot Rollability": "successful"
+                },
+                {
+                    "Alloy": "9Co",
+                    "Mn": "30",
+                    "Si": "6",
+                    "Co": "9",
+                    "Fe": "55",
+                    "Hot Rollability": "successful"
+                }
+            ],
+            [
+                {
+                    "Alloy": "0Co",
+                    "Phase": "c",
+                    "Lattice Parameters (nm)": "a= 0.360247",
+                    "Volume Fraction (pct)": "77.73"
+                },
+                {
+                    "Alloy": "None",
+                    "Phase": "None",
+                    "Lattice Parameters (nm)": "None",
+                    "Volume Fraction (pct)": "None"
+                },
+                {
+                    "Alloy": "None",
+                    "Phase": "None",
+                    "Lattice Parameters (nm)": "None",
+                    "Volume Fraction (pct)": "None"
+                },
+                {
+                    "Alloy": "None",
+                    "Phase": "None",
+                    "Lattice Parameters (nm)": "None",
+                    "Volume Fraction (pct)": "None"
+                },
+                {
+                    "Alloy": "None",
+                    "Phase": "None",
+                    "Lattice Parameters (nm)": "None",
+                    "Volume Fraction (pct)": "None"
+                },
+                {
+                    "Alloy": "None",
+                    "Phase": "None",
+                    "Lattice Parameters (nm)": "None",
+                    "Volume Fraction (pct)": "None"
+                }
+            ],
+            [
+                {
+                    "Alloys": "0Co",
+                    "Measurement Technique": "WDS",
+                    "Phases": "c",
+                    "Co": "0",
+                    "Mn": "31.874",
+                    "Si": "5.612",
+                    "Fe": "62.514"
+                },
+                {
+                    "Alloys": "1Co",
+                    "Measurement Technique": "WDS",
+                    "Phases": "c",
+                    "Co": "0.824",
+                    "Mn": "29.669",
+                    "Si": "6.289",
+                    "Fe": "63.218"
+                },
+                {
+                    "Alloys": "3Co",
+                    "Measurement Technique": "WDS",
+                    "Phases": "c",
+                    "Co": "2.859",
+                    "Mn": "30.807",
+                    "Si": "6.366",
+                    "Fe": "59.968"
+                },
+                {
+                    "Alloys": "5Co",
+                    "Measurement Technique": "WDS",
+                    "Phases": "c",
+                    "Co": "4.950",
+                    "Mn": "31.439",
+                    "Si": "6.026",
+                    "Fe": "57.585"
+                },
+                {
+                    "Alloys": "7Co",
+                    "Measurement Technique": "WDS",
+                    "Phases": "c",
+                    "Co": "6.997",
+                    "Mn": "30.389",
+                    "Si": "5.780",
+                    "Fe": "56.834"
+                },
+                {
+                    "Alloys": "9Co",
+                    "Measurement Technique": "WDS",
+                    "Phases": "c",
+                    "Co": "8.788",
+                    "Mn": "30.145",
+                    "Si": "6.235",
+                    "Fe": "54.832"
+                },
+                {
+                    "Alloys": "null",
+                    "Measurement Technique": "EDS",
+                    "Phases": "(Fe,Co)5Mn3Si2",
+                    "Co": "10.10",
+                    "Mn": "31.47",
+                    "Si": "19.60",
+                    "Fe": "38.85"
+                },
+                {
+                    "Alloys": "null",
+                    "Measurement Technique": "EDS",
+                    "Phases": "c",
+                    "Co": "10.63",
+                    "Mn": "28.95",
+                    "Si": "6.50",
+                    "Fe": "53.92"
+                },
+                {
+                    "Alloys": "null",
+                    "Measurement Technique": "EDS",
+                    "Phases": "(Fe,Co)5Mn3Si2",
+                    "Co": "8.788",
+                    "Mn": "30.145",
+                    "Si": "6.235",
+                    "Fe": "54.832"
+                }
+            ],
+            [
+                {
+                    "Alloys": "0Co",
+                    "MS (\u00b0C)": "59.58",
+                    "Mf (\u00b0C)": "13.79",
+                    "AS (\u00b0C)": 134.39,
+                    "Af (\u00b0C)": 177.71,
+                    "DH (e-c) (J/gm)": 1.13,
+                    "DT=(AS-MS)": 74.81,
+                    "T0-MS": 37.41,
+                    "AS-T0": 37.4
+                },
+                {
+                    "Alloys": "1Co",
+                    "MS (\u00b0C)": "40.45",
+                    "Mf (\u00b0C)": "-8.42",
+                    "AS (\u00b0C)": 131.48,
+                    "Af (\u00b0C)": 174.32,
+                    "DH (e-c) (J/gm)": 2.01,
+                    "DT=(AS-MS)": 91.03,
+                    "T0-MS": 56.54,
+                    "AS-T0": 34.49
+                },
+                {
+                    "Alloys": "3Co",
+                    "MS (\u00b0C)": "24.05",
+                    "Mf (\u00b0C)": "-6.62",
+                    "AS (\u00b0C)": 133.57,
+                    "Af (\u00b0C)": 164.17,
+                    "DH (e-c) (J/gm)": 1.01,
+                    "DT=(AS-MS)": 109.52,
+                    "T0-MS": 72.94,
+                    "AS-T0": 36.58
+                },
+                {
+                    "Alloys": "5Co",
+                    "MS (\u00b0C)": "14.73",
+                    "Mf (\u00b0C)": "-22.07",
+                    "AS (\u00b0C)": 130.76,
+                    "Af (\u00b0C)": 161.21,
+                    "DH (e-c) (J/gm)": 1.46,
+                    "DT=(AS-MS)": 116.03,
+                    "T0-MS": 82.26,
+                    "AS-T0": 33.77
+                },
+                {
+                    "Alloys": "7Co",
+                    "MS (\u00b0C)": "33.91",
+                    "Mf (\u00b0C)": "-4.78",
+                    "AS (\u00b0C)": 134.04,
+                    "Af (\u00b0C)": 184.24,
+                    "DH (e-c) (J/gm)": 1.22,
+                    "DT=(AS-MS)": 100.13,
+                    "T0-MS": 63.08,
+                    "AS-T0": 37.05
+                },
+                {
+                    "Alloys": "9Co",
+                    "MS (\u00b0C)": "32.25",
+                    "Mf (\u00b0C)": "-8.44",
+                    "AS (\u00b0C)": 135.56,
+                    "Af (\u00b0C)": 175.63,
+                    "DH (e-c) (J/gm)": 1.03,
+                    "DT=(AS-MS)": 103.31,
+                    "T0-MS": 64.74,
+                    "AS-T0": 38.57
+                }
+            ],
+            [
+                {
+                    "Alloy": "0Co",
+                    "c": 51.26,
+                    "e": 47.19,
+                    "a": 1.55
+                },
+                {
+                    "Alloy": "1Co",
+                    "c": 35.0,
+                    "e": 62.38,
+                    "a": 2.62
+                },
+                {
+                    "Alloy": "3Co",
+                    "c": 52.92,
+                    "e": 44.94,
+                    "a": 2.14
+                },
+                {
+                    "Alloy": "5Co",
+                    "c": 48.13,
+                    "e": 48.37,
+                    "a": 3.5
+                },
+                {
+                    "Alloy": "7Co",
+                    "c": 37.39,
+                    "e": 62.61,
+                    "a": "-"
+                },
+                {
+                    "Alloy": "9Co",
+                    "c": 27.8,
+                    "e": 72.2,
+                    "a": "-"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 6",
+        "tables": [
+            [
+                {
+                    "Columns": "Alloy",
+                    "Rows": "Fe-17%Mn"
+                },
+                {
+                    "Columns": "C",
+                    "Rows": "0.0010"
+                },
+                {
+                    "Columns": "Si",
+                    "Rows": "0.005"
+                },
+                {
+                    "Columns": "Mn",
+                    "Rows": "16.6"
+                },
+                {
+                    "Columns": "P",
+                    "Rows": "0.0014"
+                },
+                {
+                    "Columns": "S",
+                    "Rows": "0.0004"
+                },
+                {
+                    "Columns": "Fe",
+                    "Rows": "bal."
+                },
+                {
+                    "Columns": "Ms",
+                    "Rows": "433"
+                },
+                {
+                    "Columns": "As",
+                    "Rows": "453"
+                },
+                {
+                    "Columns": "Af",
+                    "Rows": "486"
+                },
+                {
+                    "Columns": "Alloy",
+                    "Rows": "Fe-25%Mn"
+                },
+                {
+                    "Columns": "C",
+                    "Rows": "0.0020"
+                },
+                {
+                    "Columns": "Si",
+                    "Rows": "0.02"
+                },
+                {
+                    "Columns": "Mn",
+                    "Rows": "24.4"
+                },
+                {
+                    "Columns": "P",
+                    "Rows": "0.005"
+                },
+                {
+                    "Columns": "S",
+                    "Rows": "0.005"
+                },
+                {
+                    "Columns": "Fe",
+                    "Rows": "bal."
+                },
+                {
+                    "Columns": "Ms",
+                    "Rows": "366"
+                },
+                {
+                    "Columns": "As",
+                    "Rows": "407"
+                },
+                {
+                    "Columns": "Af",
+                    "Rows": "436"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 7",
+        "tables": [
+            [
+                {
+                    "Alloy": "No. 1",
+                    "Co": "0.39",
+                    "Mn": "14.07",
+                    "Si": "6.14",
+                    "Cr": "12.12",
+                    "Ni": "5.06",
+                    "Fe": "balance"
+                },
+                {
+                    "Alloy": "No. 2",
+                    "Co": "0.98",
+                    "Mn": "13.31",
+                    "Si": "6.81",
+                    "Cr": "13.32",
+                    "Ni": "4.98",
+                    "Fe": "balance"
+                },
+                {
+                    "Alloy": "No. 3",
+                    "Co": "2.77",
+                    "Mn": "13.84",
+                    "Si": "6.49",
+                    "Cr": "13.12",
+                    "Ni": "5.14",
+                    "Fe": "balance"
+                },
+                {
+                    "Alloy": "No. 4",
+                    "Co": "3.93",
+                    "Mn": "13.78",
+                    "Si": "6.58",
+                    "Cr": "13.29",
+                    "Ni": "4.95",
+                    "Fe": "balance"
+                }
+            ],
+            [
+                {
+                    "Alloy": "No. 1",
+                    "Co (wt%)": "0.39",
+                    "Ms (K)": "286.5",
+                    "Psf (x10^-3)": "2.24",
+                    "n": "0.1368",
+                    "\u03c30.2 (MPa)": "436.0"
+                },
+                {
+                    "Alloy": "No. 2",
+                    "Co (wt%)": "0.98",
+                    "Ms (K)": "288.5",
+                    "Psf (x10^-3)": "2.51",
+                    "n": "0.1410",
+                    "\u03c30.2 (MPa)": "392.2"
+                },
+                {
+                    "Alloy": "No. 3",
+                    "Co (wt%)": "2.77",
+                    "Ms (K)": "290.5",
+                    "Psf (x10^-3)": "3.11",
+                    "n": "0.1458",
+                    "\u03c30.2 (MPa)": "424.4"
+                },
+                {
+                    "Alloy": "No. 4",
+                    "Co (wt%)": "3.93",
+                    "Ms (K)": "294.3",
+                    "Psf (x10^-3)": "4.99",
+                    "n": "0.1474",
+                    "\u03c30.2 (MPa)": "380.7"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 8",
+        "tables": [
+            [
+                {
+                    "Alloy": "Mn",
+                    "1": "14",
+                    "2": "14",
+                    "3": "14",
+                    "4": "14",
+                    "5": "14",
+                    "6": "14",
+                    "7": "14",
+                    "8": "14",
+                    "10": "14"
+                },
+                {
+                    "Alloy": "Cr",
+                    "1": "9",
+                    "2": "9",
+                    "3": "9",
+                    "4": "9",
+                    "5": "9",
+                    "6": "9",
+                    "7": "9",
+                    "8": "9",
+                    "10": "9"
+                },
+                {
+                    "Alloy": "Ni",
+                    "1": "5",
+                    "2": "5",
+                    "3": "5",
+                    "4": "5",
+                    "5": "5",
+                    "6": "5",
+                    "7": "5",
+                    "8": "5",
+                    "10": "5"
+                },
+                {
+                    "Alloy": "Si",
+                    "1": "1",
+                    "2": "2",
+                    "3": "3",
+                    "4": "4",
+                    "5": "5",
+                    "6": "6",
+                    "7": "7",
+                    "8": "8",
+                    "10": "10"
+                },
+                {
+                    "Alloy": "Fe",
+                    "1": "balance",
+                    "2": "balance",
+                    "3": "balance",
+                    "4": "balance",
+                    "5": "balance",
+                    "6": "balance",
+                    "7": "balance",
+                    "8": "balance",
+                    "10": "balance"
+                }
+            ],
+            [
+                {
+                    "Alloy": "Phase",
+                    "1": "\u03b5",
+                    "2": "\u03b5",
+                    "3": "\u03b5",
+                    "4": "\u03b5",
+                    "5": "\u03b5",
+                    "6": "\u03b5",
+                    "7": "\u03b4"
+                },
+                {
+                    "Alloy": "Lattice Parameters (nm)",
+                    "1": "a= 0.253890 nm, c= 0.410161 nm",
+                    "2": "a= 0.2543903 nm, c= 0.410353 nm",
+                    "3": "a= 0.253881 nm, c= 0.410851 nm",
+                    "4": "a= 0.255803 nm, c= 0.405703 nm",
+                    "5": "a= 0.254404 nm, c= 0.410272 nm",
+                    "6": "a= 0.254098 nm, c= 0.410554 nm",
+                    "7": "a= 0.285693 nm"
+                },
+                {
+                    "Alloy": "Volume Fraction (Pct)",
+                    "1": "21",
+                    "2": "35",
+                    "3": "38",
+                    "4": "23",
+                    "5": "21",
+                    "6": "18",
+                    "7": "49"
+                }
+            ],
+            [
+                {
+                    "Alloy": "Phase",
+                    "1": "\u03b3",
+                    "2": "\u03b3",
+                    "3": "\u03b3",
+                    "4": "\u03b3",
+                    "5": "\u03b3",
+                    "6": "\u03b3",
+                    "7": "\u03b4",
+                    "8": "Fe5Ni3Si2",
+                    "10": "Fe5Ni3Si2"
+                },
+                {
+                    "Alloy": "Composition (Mass Pct)*",
+                    "1": "Cr: 9.647, Ni: 4.868, Mn: 13.796, Si: 1.203",
+                    "2": "Cr: 9.540, Ni: 4.819, Mn: 13.450, Si: 2.268",
+                    "3": "Cr: 8.915, Ni: 4.904, Mn: 14.661, Si: 3.236",
+                    "4": "Cr: 9.591, Ni: 4.900, Mn: 14.040, Si: 4.762",
+                    "5": "Cr: 8.600, Ni: 4.552, Mn: 14.720, Si: 5.173",
+                    "6": "Cr: 8.700, Ni: 4.732, Mn: 14.352, Si: 5.929",
+                    "7": "Cr: 10.278, Ni: 4.425, Mn: 13.372, Si: 8.480",
+                    "8": "Cr: 9.816, Ni: 7.840, Mn: 17.940, Si: 10.802",
+                    "10": "Cr: 10.473, Ni: 6.831, Mn: 16.389, Si: 11.350"
+                }
+            ],
+            [
+                {
+                    "Alloy": "Ms (K)",
+                    "1": "304.96",
+                    "2": "303.11",
+                    "3": "296.59",
+                    "4": "308.23",
+                    "5": "308.88",
+                    "6": "298.58",
+                    "7": "243.19",
+                    "8": "\u2014",
+                    "10": "\u2014"
+                },
+                {
+                    "Alloy": "Mf (K)",
+                    "1": "251.13",
+                    "2": "267.56",
+                    "3": "260.99",
+                    "4": "280.75",
+                    "5": "281.89",
+                    "6": "272.14",
+                    "7": "230.19",
+                    "8": "\u2014",
+                    "10": "\u2014"
+                },
+                {
+                    "Alloy": "DH (\u03b3-e) (J/g)",
+                    "1": "4.20",
+                    "2": "5.83",
+                    "3": "4.21",
+                    "4": "3.32",
+                    "5": "2.15",
+                    "6": "0.96",
+                    "7": "0.24",
+                    "8": "\u2014",
+                    "10": "\u2014"
+                },
+                {
+                    "Alloy": "As (K)",
+                    "1": "375.88",
+                    "2": "385.89",
+                    "3": "387.17",
+                    "4": "396.87",
+                    "5": "401.63",
+                    "6": "395.51",
+                    "7": "358.46",
+                    "8": "\u2014",
+                    "10": "\u2014"
+                },
+                {
+                    "Alloy": "Af (K)",
+                    "1": "416.28",
+                    "2": "414.03",
+                    "3": "413.73",
+                    "4": "416.17",
+                    "5": "421.81",
+                    "6": "417.72",
+                    "7": "385.15",
+                    "8": "\u2014",
+                    "10": "\u2014"
+                },
+                {
+                    "Alloy": "DH (e-\u03b3) (J/g)",
+                    "1": "3.72",
+                    "2": "4.68",
+                    "3": "3.37",
+                    "4": "3.07",
+                    "5": "2.16",
+                    "6": "1.31",
+                    "7": "0.33",
+                    "8": "\u2014",
+                    "10": "\u2014"
+                }
+            ],
+            [
+                {
+                    "Alloy": "YS (MPa)",
+                    "1": "170",
+                    "2": "199",
+                    "3": "159",
+                    "4": "185",
+                    "5": "223",
+                    "6": "193",
+                    "7": "317"
+                },
+                {
+                    "Alloy": "UTS (MPa)",
+                    "1": "834",
+                    "2": "811",
+                    "3": "710",
+                    "4": "801",
+                    "5": "777",
+                    "6": "881",
+                    "7": "845"
+                },
+                {
+                    "Alloy": "Ductility (Pct)",
+                    "1": "87",
+                    "2": "76",
+                    "3": "79",
+                    "4": "86",
+                    "5": "79",
+                    "6": "95",
+                    "7": "16"
+                }
+            ],
+            [
+                {
+                    "Alloy": "\u03b3",
+                    "1": "5",
+                    "2": "4",
+                    "3": "4",
+                    "4": "5",
+                    "5": "3",
+                    "6": "5",
+                    "7": "5"
+                },
+                {
+                    "Alloy": "e",
+                    "1": "4",
+                    "2": "3",
+                    "3": "4",
+                    "4": "4",
+                    "5": "4",
+                    "6": "2",
+                    "7": "3"
+                },
+                {
+                    "Alloy": "a",
+                    "1": "3",
+                    "2": "7",
+                    "3": "10",
+                    "4": "4",
+                    "5": "7",
+                    "6": "4",
+                    "7": "4"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 9",
+        "tables": [
+            [
+                {
+                    "Single crystal": "#1",
+                    "Composition, at.%": "Ni: 52.4, Fe: 23.2, Ga: 24.4, Co: -",
+                    "Heat treatment": "As-grown",
+                    "Lattice orientation along tensile axis": "-",
+                    "Transformation temperatures, \u00b0C": "TM: -45, TA: -20, TC: 51"
+                },
+                {
+                    "Single crystal": "#2",
+                    "Composition, at.%": "Ni: 53.0, Fe: 12.0, Ga: 26.9, Co: 8.1",
+                    "Heat treatment": "1100 \u00b0C for 24 h +650 \u00b0C 100 h",
+                    "Lattice orientation along tensile axis": "-",
+                    "Transformation temperatures, \u00b0C": "TM: 20, TA: 65, TC: 42"
+                },
+                {
+                    "Single crystal": "#3",
+                    "Composition, at.%": "Ni: 50.0, Fe: 17.0, Ga: 27.0, Co: 6.0",
+                    "Heat treatment": "As-grown",
+                    "Lattice orientation along tensile axis": "\u00c610 6 13\u00e6",
+                    "Transformation temperatures, \u00b0C": "TM: 45, TA: 55, TC: 70"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 10",
+        "tables": [
+            [
+                {
+                    "Alloys": "Fe-30Mn-6Si-5Cr",
+                    "Fe": "Bal.",
+                    "Mn": "30.0",
+                    "Si": "6.0",
+                    "Cr": "5.1",
+                    "Re": "0",
+                    "Ms, \u00b0C": "4.32",
+                    "As, \u00b0C": "121.36"
+                },
+                {
+                    "Alloys": "Fe-30Mn-6Si-5Cr-0.05Re",
+                    "Fe": "Bal.",
+                    "Mn": "30.7",
+                    "Si": "6.1",
+                    "Cr": "4.9",
+                    "Re": "0.04",
+                    "Ms, \u00b0C": "6.51",
+                    "As, \u00b0C": "118.97"
+                },
+                {
+                    "Alloys": "Fe-30Mn-6Si-5Cr-0.1Re",
+                    "Fe": "Bal.",
+                    "Mn": "30.5",
+                    "Si": "5.9",
+                    "Cr": "4.9",
+                    "Re": "0.09",
+                    "Ms, \u00b0C": "12.20",
+                    "As, \u00b0C": "117.81"
+                },
+                {
+                    "Alloys": "Fe-30Mn-6Si-5Cr-0.3Re",
+                    "Fe": "Bal.",
+                    "Mn": "31.0",
+                    "Si": "6.2",
+                    "Cr": "4.8",
+                    "Re": "0.28",
+                    "Ms, \u00b0C": "17.53",
+                    "As, \u00b0C": "117.32"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 11",
+        "tables": [
+            [
+                {
+                    "null": "-",
+                    "As": "-",
+                    "initial": "0.97%",
+                    "after the treatment": "1.15%"
+                },
+                {
+                    "null": "261.2K",
+                    "As": "354.5K",
+                    "initial": "2.054%",
+                    "after the treatment": "2.20%"
+                },
+                {
+                    "null": "225.7K",
+                    "As": "355.1K",
+                    "initial": "1.95%",
+                    "after the treatment": "2.10%"
+                },
+                {
+                    "null": "254.3K",
+                    "As": "370.0K",
+                    "initial": "1.11%",
+                    "after the treatment": "1.98%"
+                },
+                {
+                    "null": "254.0K",
+                    "As": "365.8K",
+                    "initial": "1.20%",
+                    "after the treatment": "1.76%"
+                },
+                {
+                    "null": "-",
+                    "As": "-",
+                    "initial": "0.95%",
+                    "after the treatment": "-"
+                },
+                {
+                    "null": "-",
+                    "As": "328.7K",
+                    "initial": "broken",
+                    "after the treatment": "-"
+                },
+                {
+                    "null": "214.5K",
+                    "As": "342.4K",
+                    "initial": "0.98%",
+                    "after the treatment": "1.34%"
+                },
+                {
+                    "null": "-",
+                    "As": "369.2K",
+                    "initial": "1.10%",
+                    "after the treatment": "1.76%"
+                },
+                {
+                    "null": "267.2K",
+                    "As": "382.3K",
+                    "initial": "1.45%",
+                    "after the treatment": "2.07%"
+                },
+                {
+                    "null": "274.5K",
+                    "As": "406.8K",
+                    "initial": "0.91%",
+                    "after the treatment": "1.12%"
+                },
+                {
+                    "null": "276.8K",
+                    "As": "385.1K",
+                    "initial": "1.59%",
+                    "after the treatment": "2.02%"
+                },
+                {
+                    "null": "243.6K",
+                    "As": "367.5K",
+                    "initial": "1.64%",
+                    "after the treatment": "1.96%"
+                },
+                {
+                    "null": "293.0K",
+                    "As": "388.2K",
+                    "initial": "1.00%",
+                    "after the treatment": "1.85%"
+                },
+                {
+                    "null": "283.0K",
+                    "As": "392.2K",
+                    "initial": "1.20%",
+                    "after the treatment": "1.80%"
+                }
+            ],
+            [
+                {
+                    "null": "5.0",
+                    "R.T.": "0%",
+                    "77K": "34.0%"
+                },
+                {
+                    "null": "4.9",
+                    "R.T.": "0%",
+                    "77K": "29.8%"
+                },
+                {
+                    "null": "-",
+                    "R.T.": "1.5%",
+                    "77K": "14.4%"
+                },
+                {
+                    "null": "-",
+                    "R.T.": "2.0%",
+                    "77K": "24.3%"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 12",
+        "tables": [
+            [
+                {
+                    "Alloy": "Ms(K)",
+                    "Ni56.5Feu.5Al25": "410",
+                    "Ni55.5Fe19.5Al25": "330",
+                    "Ni55Fe1oAl25": "290",
+                    "Ni54.5Fe1o.5Al25": "252",
+                    "Ni54FeuAl25": "219",
+                    "Ni53.5Fen.5Al25": "172",
+                    "Ni53Fe22Al25": "-",
+                    "Ni52.7Fe23.3mAl25": "-",
+                    "Ni52Fe23Al25": "-",
+                    "Ni51Fe24Al25": "-",
+                    "Ni50Fe25Al25": "-"
+                },
+                {
+                    "Alloy": "Mf(K)",
+                    "Ni56.5Feu.5Al25": "379",
+                    "Ni55.5Fe19.5Al25": "312",
+                    "Ni55Fe1oAl25": "272",
+                    "Ni54.5Fe1o.5Al25": "238",
+                    "Ni54FeuAl25": "203",
+                    "Ni53.5Fen.5Al25": "149",
+                    "Ni53Fe22Al25": "-",
+                    "Ni52.7Fe23.3mAl25": "-",
+                    "Ni52Fe23Al25": "-",
+                    "Ni51Fe24Al25": "-",
+                    "Ni50Fe25Al25": "-"
+                },
+                {
+                    "Alloy": "As(K)",
+                    "Ni56.5Feu.5Al25": "409",
+                    "Ni55.5Fe19.5Al25": "337",
+                    "Ni55Fe1oAl25": "297",
+                    "Ni54.5Fe1o.5Al25": "258",
+                    "Ni54FeuAl25": "221",
+                    "Ni53.5Fen.5Al25": "172",
+                    "Ni53Fe22Al25": "152*",
+                    "Ni52.7Fe23.3mAl25": "12.5*",
+                    "Ni52Fe23Al25": "-",
+                    "Ni51Fe24Al25": "-",
+                    "Ni50Fe25Al25": "-"
+                },
+                {
+                    "Alloy": "Af(K)",
+                    "Ni56.5Feu.5Al25": "438",
+                    "Ni55.5Fe19.5Al25": "354",
+                    "Ni55Fe1oAl25": "312",
+                    "Ni54.5Fe1o.5Al25": "-",
+                    "Ni54FeuAl25": "236",
+                    "Ni53.5Fen.5Al25": "-",
+                    "Ni53Fe22Al25": "17~",
+                    "Ni52.7Fe23.3mAl25": "15~",
+                    "Ni52Fe23Al25": "-",
+                    "Ni51Fe24Al25": "-",
+                    "Ni50Fe25Al25": "-"
+                },
+                {
+                    "Alloy": "Tc(K)",
+                    "Ni56.5Feu.5Al25": "220",
+                    "Ni55.5Fe19.5Al25": "241",
+                    "Ni55Fe1oAl25": "247",
+                    "Ni54.5Fe1o.5Al25": "276",
+                    "Ni54FeuAl25": "-",
+                    "Ni53.5Fen.5Al25": "195",
+                    "Ni53Fe22Al25": "-",
+                    "Ni52.7Fe23.3mAl25": "157",
+                    "Ni52Fe23Al25": "166",
+                    "Ni51Fe24Al25": "184",
+                    "Ni50Fe25Al25": "202"
+                },
+                {
+                    "Alloy": "Tk(K)",
+                    "Ni56.5Feu.5Al25": "28",
+                    "Ni55.5Fe19.5Al25": "24",
+                    "Ni55Fe1oAl25": "22",
+                    "Ni54.5Fe1o.5Al25": "24",
+                    "Ni54FeuAl25": "17",
+                    "Ni53.5Fen.5Al25": "23",
+                    "Ni53Fe22Al25": "-",
+                    "Ni52.7Fe23.3mAl25": "-",
+                    "Ni52Fe23Al25": "-",
+                    "Ni51Fe24Al25": "-",
+                    "Ni50Fe25Al25": "-"
+                },
+                {
+                    "Alloy": "To(K)",
+                    "Ni56.5Feu.5Al25": "424",
+                    "Ni55.5Fe19.5Al25": "342",
+                    "Ni55Fe1oAl25": "301",
+                    "Ni54.5Fe1o.5Al25": "264",
+                    "Ni54FeuAl25": "227.5",
+                    "Ni53.5Fen.5Al25": "183.5",
+                    "Ni53Fe22Al25": "-",
+                    "Ni52.7Fe23.3mAl25": "-",
+                    "Ni52Fe23Al25": "-",
+                    "Ni51Fe24Al25": "-",
+                    "Ni50Fe25Al25": "-"
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 13",
+        "tables": [
+            [
+                {
+                    "Alloy": "Fe-33Mn-6Si",
+                    "C": "0.0015",
+                    "Si": "6.19",
+                    "Mn": "32.7",
+                    "P": "0.001",
+                    "S": "0.007",
+                    "Fe": "bal."
+                },
+                {
+                    "Alloy": "Fe-17Mn-6Si-0.3C",
+                    "C": "0.30",
+                    "Si": "6.03",
+                    "Mn": "16.9",
+                    "P": "0.005",
+                    "S": "0.005",
+                    "Fe": "bal."
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 14",
+        "tables": [
+            [
+                {
+                    "Columns": "Alloy",
+                    "Rows": [
+                        "A",
+                        "21.2",
+                        "2.10",
+                        "14",
+                        "309",
+                        "390",
+                        "416",
+                        ""
+                    ]
+                },
+                {
+                    "Columns": "Mn (wt%)",
+                    "Rows": [
+                        "B",
+                        "27.6",
+                        "0.99",
+                        "6",
+                        "373",
+                        "298*",
+                        "387",
+                        "1.613"
+                    ]
+                },
+                {
+                    "Columns": "Si (wt%)",
+                    "Rows": [
+                        "C",
+                        "24.8",
+                        "1.19",
+                        "9",
+                        "341",
+                        "331*",
+                        "395",
+                        "1.613"
+                    ]
+                },
+                {
+                    "Columns": "SME (%)",
+                    "Rows": [
+                        "D",
+                        "25.8",
+                        "2.34",
+                        "73",
+                        "332",
+                        "336",
+                        "381",
+                        "1.615"
+                    ]
+                },
+                {
+                    "Columns": "T_c (K)",
+                    "Rows": [
+                        "E",
+                        "26.3",
+                        "3.00",
+                        "99",
+                        "319",
+                        "342",
+                        "388",
+                        ""
+                    ]
+                },
+                {
+                    "Columns": "M_s (K)",
+                    "Rows": [
+                        "F",
+                        "26.9",
+                        "3.37",
+                        "100",
+                        "304",
+                        "348",
+                        "390",
+                        "1.618"
+                    ]
+                },
+                {
+                    "Columns": "A_s (K)",
+                    "Rows": [
+                        "G",
+                        "30.7",
+                        "6.54",
+                        "100",
+                        "< 300",
+                        "< 300",
+                        "338",
+                        ""
+                    ]
+                },
+                {
+                    "Columns": "c/a ratio",
+                    "Rows": [
+                        "H",
+                        "32.0",
+                        "2.0",
+                        "30",
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "paper_id": "Paper 15",
+        "tables": [
+            [
+                {
+                    "Alloys": "Fe64Mn30Si6 (VAM)",
+                    "Fe": "64.1",
+                    "Mn": "30.3",
+                    "Si": "5.6"
+                },
+                {
+                    "Alloys": "Fe64Mn30Si6 (AFM)",
+                    "Fe": "64.8",
+                    "Mn": "30.5",
+                    "Si": "4.7"
+                }
+            ],
+            [
+                {
+                    "Alloys": "VAM",
+                    "M* (C)": "12.6",
+                    "A* (C)": "151.5",
+                    "RsME (%)": "93"
+                },
+                {
+                    "Alloys": "AFM",
+                    "M* (C)": "18.4",
+                    "A* (C)": "157.2",
+                    "RsME (%)": "88"
+                }
+            ],
+            [
+                {
+                    "Alloys": "Fe64Mn30Si6 (VAM)",
+                    "Y.S. (kg/mm2)": "37.5",
+                    "U.T.S. (kg/mm2)": "67.5",
+                    "Elongation (%)": "14.9"
+                },
+                {
+                    "Alloys": "Fe64Mn30Si6 (AFM)",
+                    "Y.S. (kg/mm2)": "51.0",
+                    "U.T.S. (kg/mm2)": "80.4",
+                    "Elongation (%)": "12"
+                }
+            ]
+        ]
+    }
+]
